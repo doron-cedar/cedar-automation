@@ -1,0 +1,1529 @@
+2024-06-22T09:31:29.006Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T09:31:30.216Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T09:31:30.565Z [INFO]: Clicked on Month view button
+2024-06-22T09:31:38.898Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T09:31:39.543Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T09:31:39.933Z [INFO]: Clicked on Month view button
+2024-06-22T09:31:48.246Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T09:31:48.919Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T09:31:49.283Z [INFO]: Clicked on Month view button
+2024-06-22T09:31:57.468Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T09:32:10.711Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T09:32:24.356Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T09:32:37.997Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T09:32:51.156Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T09:33:04.510Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T09:33:17.511Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T09:33:31.206Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T09:33:44.539Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T10:07:47.317Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T10:07:47.758Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T10:07:47.987Z [INFO]: Clicked on Month view button
+2024-06-22T10:07:57.474Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T10:07:58.009Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T10:07:58.239Z [INFO]: Clicked on Month view button
+2024-06-22T10:08:07.704Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T10:08:08.126Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T10:08:08.360Z [INFO]: Clicked on Month view button
+2024-06-22T10:08:18.000Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T10:08:32.660Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T10:08:47.493Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T10:09:02.029Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T10:09:16.538Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T10:09:30.898Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T10:09:45.418Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T10:09:59.989Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T10:10:14.332Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T12:05:46.993Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T12:05:47.432Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T12:05:47.663Z [INFO]: Clicked on Month view button
+2024-06-22T12:05:57.351Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T12:05:57.792Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T12:05:58.023Z [INFO]: Clicked on Month view button
+2024-06-22T12:06:07.442Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T12:06:07.878Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T12:06:08.107Z [INFO]: Clicked on Month view button
+2024-06-22T12:06:17.695Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T12:06:17.886Z [INFO]: Double-clicked on Add new event
+2024-06-22T12:06:32.388Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T12:06:32.622Z [INFO]: Double-clicked on Add new event
+2024-06-22T12:06:47.496Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T12:06:47.686Z [INFO]: Double-clicked on Add new event
+2024-06-22T12:07:02.250Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T12:07:16.698Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T12:07:31.511Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T12:07:46.082Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T12:08:00.816Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T12:08:15.518Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T12:41:28.120Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T12:41:28.545Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T12:41:28.775Z [INFO]: Clicked on Month view button
+2024-06-22T12:41:28.787Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T12:41:32.066Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T12:41:32.189Z [INFO]: Double-clicked on Add new event
+2024-06-22T12:41:46.607Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T12:41:46.803Z [INFO]: Double-clicked on Add new event
+2024-06-22T12:42:01.338Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T12:42:01.530Z [INFO]: Double-clicked on Add new event
+2024-06-22T12:42:15.905Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T12:42:30.559Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T12:42:45.135Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T12:42:59.722Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T12:43:14.126Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T12:43:29.316Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T13:47:32.423Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T13:47:32.841Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T13:47:33.067Z [INFO]: Clicked on Month view button
+2024-06-22T13:47:33.079Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T13:47:36.389Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T13:47:36.496Z [INFO]: Double-clicked on Add new event
+2024-06-22T13:47:50.866Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T13:47:51.057Z [INFO]: Double-clicked on Add new event
+2024-06-22T13:48:05.593Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T13:48:05.786Z [INFO]: Double-clicked on Add new event
+2024-06-22T13:48:20.190Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T13:48:34.597Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T13:48:49.508Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T13:49:03.935Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T13:49:18.335Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T13:49:32.811Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T13:51:45.585Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T13:51:46.005Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T13:51:46.222Z [INFO]: Clicked on Month view button
+2024-06-22T13:51:46.233Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T13:51:49.490Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T13:52:03.956Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T13:52:18.650Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T13:52:34.059Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T13:52:48.792Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T13:53:03.962Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T13:53:18.403Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T13:53:32.872Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T13:53:48.030Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T14:06:40.031Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T14:06:40.461Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T14:06:40.689Z [INFO]: Clicked on Month view button
+2024-06-22T14:06:40.702Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T14:06:43.950Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:06:58.455Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:07:13.104Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:07:27.866Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T14:08:17.508Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T14:08:18.055Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T14:08:18.373Z [INFO]: Clicked on Month view button
+2024-06-22T14:08:18.391Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T14:08:21.788Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:08:21.928Z [INFO]: Double-clicked on a free slot to add a new event
+2024-06-22T14:08:36.621Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:08:36.903Z [INFO]: Double-clicked on a free slot to add a new event
+2024-06-22T14:16:39.576Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T14:16:40.069Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T14:16:40.288Z [INFO]: Clicked on Month view button
+2024-06-22T14:16:40.302Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T14:16:43.692Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:16:43.837Z [INFO]: clicked on a free slot to add a new event
+2024-06-22T14:16:58.259Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:16:58.489Z [INFO]: clicked on a free slot to add a new event
+2024-06-22T14:17:13.039Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:17:13.242Z [INFO]: clicked on a free slot to add a new event
+2024-06-22T14:33:50.441Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T14:33:50.968Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T14:33:51.229Z [INFO]: Clicked on Month view button
+2024-06-22T14:33:51.248Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T14:33:54.515Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:33:54.652Z [INFO]: clicked on a free slot to add a new event
+2024-06-22T14:34:09.107Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T14:34:09.324Z [INFO]: clicked on a free slot to add a new event
+2024-06-22T15:02:15.719Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T15:02:16.145Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T15:02:16.363Z [INFO]: Clicked on Month view button
+2024-06-22T15:02:16.374Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T15:02:19.626Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T15:02:19.769Z [INFO]: clicked on a free slot to add a new event
+2024-06-22T15:02:34.133Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T15:02:34.376Z [INFO]: clicked on a free slot to add a new event
+2024-06-22T15:09:55.632Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T15:09:56.068Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T15:09:56.288Z [INFO]: Clicked on Month view button
+2024-06-22T15:09:56.300Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T15:09:59.563Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T15:09:59.705Z [INFO]: clicked on a free slot to add a new event
+2024-06-22T15:10:14.095Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T15:10:14.311Z [INFO]: clicked on a free slot to add a new event
+2024-06-22T16:24:53.586Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T16:24:54.030Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T16:24:54.259Z [INFO]: Clicked on Month view button
+2024-06-22T16:24:54.273Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T16:24:57.570Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T16:25:02.012Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T16:25:06.605Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T16:25:11.052Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T16:25:25.560Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T16:25:39.958Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T16:25:54.549Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T16:26:08.975Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T16:26:23.263Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T16:59:34.705Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T16:59:35.139Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T16:59:35.358Z [INFO]: Clicked on Month view button
+2024-06-22T16:59:35.369Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T16:59:38.643Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T16:59:43.116Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T16:59:47.628Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T16:59:52.029Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T17:00:06.498Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T17:00:20.902Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-22T17:00:35.676Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T17:00:50.312Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T17:01:04.693Z [INFO]: Starting test: Go back to the original date and check if the events still exist
+2024-06-22T18:33:21.409Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-22T18:33:21.922Z [INFO]: Clicked on Infinite scroll button
+2024-06-22T18:33:22.169Z [INFO]: Clicked on Month view button
+2024-06-22T18:33:22.183Z [INFO]: Verified the Month view radio button is selected
+2024-06-22T18:33:25.488Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T18:33:25.613Z [INFO]: Clicked on a free slot to add a new event
+2024-06-22T18:33:40.036Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T18:33:40.238Z [INFO]: Clicked on a free slot to add a new event
+2024-06-22T18:33:54.731Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-22T18:33:54.975Z [INFO]: Clicked on a free slot to add a new event
+2024-06-22T18:34:09.727Z [INFO]: Starting test: Go ahead one month and verify the new events don’t exist
+2024-06-27T08:03:41.617Z [INFO]: Starting test: Switch to infinite scroll and month view
+2024-06-27T08:03:42.122Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:03:42.358Z [INFO]: Clicked on Month view button
+2024-06-27T08:03:42.373Z [INFO]: Verified the Month view radio button is selected
+2024-06-27T08:03:46.868Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-27T08:04:02.559Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-27T08:04:17.487Z [INFO]: Starting test: Create several new events and verify the creation
+2024-06-27T08:07:33.020Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:12:35.858Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:12:36.312Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:12:36.532Z [INFO]: Clicked on Month view button
+2024-06-27T08:12:36.543Z [INFO]: Verified the Month view radio button is selected
+2024-06-27T08:12:54.096Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:12:54.527Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:12:54.738Z [INFO]: Clicked on Month view button
+2024-06-27T08:12:54.751Z [INFO]: Verified the Month view radio button is selected
+2024-06-27T08:13:10.239Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:13:10.676Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:13:10.890Z [INFO]: Clicked on Month view button
+2024-06-27T08:13:10.902Z [INFO]: Verified the Month view radio button is selected
+2024-06-27T08:21:57.457Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:21:57.882Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:21:58.085Z [INFO]: Clicked on Month view button
+2024-06-27T08:21:58.098Z [INFO]: Verified the Month view is selected
+2024-06-27T08:39:32.622Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:39:33.054Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:39:33.255Z [INFO]: Clicked on Month view button
+2024-06-27T08:39:33.267Z [INFO]: Verified the Month view is selected
+2024-06-27T08:39:33.345Z [INFO]: Event created.
+2024-06-27T08:39:33.495Z [INFO]: Event created.
+2024-06-27T08:39:33.646Z [INFO]: Event created.
+2024-06-27T08:39:33.808Z [INFO]: Event created.
+2024-06-27T08:39:38.975Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:39:39.408Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:39:39.619Z [INFO]: Clicked on Month view button
+2024-06-27T08:39:39.631Z [INFO]: Verified the Month view is selected
+2024-06-27T08:39:39.712Z [INFO]: Event created.
+2024-06-27T08:39:39.865Z [INFO]: Event created.
+2024-06-27T08:39:40.038Z [INFO]: Event created.
+2024-06-27T08:39:40.179Z [INFO]: Event created.
+2024-06-27T08:39:45.195Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:39:45.622Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:39:45.824Z [INFO]: Clicked on Month view button
+2024-06-27T08:39:45.834Z [INFO]: Verified the Month view is selected
+2024-06-27T08:39:45.922Z [INFO]: Event created.
+2024-06-27T08:39:46.078Z [INFO]: Event created.
+2024-06-27T08:39:46.225Z [INFO]: Event created.
+2024-06-27T08:39:46.364Z [INFO]: Event created.
+2024-06-27T08:45:29.346Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:45:29.807Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:45:30.011Z [INFO]: Clicked on Month view button
+2024-06-27T08:45:30.022Z [INFO]: Verified the Month view is selected
+2024-06-27T08:45:45.606Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:45:46.032Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:45:46.247Z [INFO]: Clicked on Month view button
+2024-06-27T08:45:46.257Z [INFO]: Verified the Month view is selected
+2024-06-27T08:46:01.417Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:46:01.846Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:46:02.067Z [INFO]: Clicked on Month view button
+2024-06-27T08:46:02.077Z [INFO]: Verified the Month view is selected
+2024-06-27T08:47:11.686Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:47:12.146Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:47:12.353Z [INFO]: Clicked on Month view button
+2024-06-27T08:47:12.366Z [INFO]: Verified the Month view is selected
+2024-06-27T08:47:12.443Z [INFO]: Event created.
+2024-06-27T08:47:12.590Z [INFO]: Event created.
+2024-06-27T08:47:12.732Z [INFO]: Event created.
+2024-06-27T08:47:12.868Z [INFO]: Event created.
+2024-06-27T08:47:18.610Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:47:19.057Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:47:19.276Z [INFO]: Clicked on Month view button
+2024-06-27T08:47:19.287Z [INFO]: Verified the Month view is selected
+2024-06-27T08:47:19.362Z [INFO]: Event created.
+2024-06-27T08:47:19.504Z [INFO]: Event created.
+2024-06-27T08:47:19.640Z [INFO]: Event created.
+2024-06-27T08:47:19.778Z [INFO]: Event created.
+2024-06-27T08:47:25.289Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:47:25.721Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:47:25.922Z [INFO]: Clicked on Month view button
+2024-06-27T08:47:25.936Z [INFO]: Verified the Month view is selected
+2024-06-27T08:47:26.038Z [INFO]: Event created.
+2024-06-27T08:47:26.192Z [INFO]: Event created.
+2024-06-27T08:47:26.341Z [INFO]: Event created.
+2024-06-27T08:47:26.479Z [INFO]: Event created.
+2024-06-27T08:48:57.796Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:48:58.221Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:48:58.445Z [INFO]: Clicked on Month view button
+2024-06-27T08:48:58.458Z [INFO]: Verified the Month view is selected
+2024-06-27T08:48:58.529Z [INFO]: Event created.
+2024-06-27T08:48:58.695Z [INFO]: Event created.
+2024-06-27T08:48:58.855Z [INFO]: Event created.
+2024-06-27T08:48:58.993Z [INFO]: Event created.
+2024-06-27T08:49:04.780Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:49:05.203Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:49:05.426Z [INFO]: Clicked on Month view button
+2024-06-27T08:49:05.438Z [INFO]: Verified the Month view is selected
+2024-06-27T08:49:05.510Z [INFO]: Event created.
+2024-06-27T08:49:05.648Z [INFO]: Event created.
+2024-06-27T08:49:05.791Z [INFO]: Event created.
+2024-06-27T08:49:05.938Z [INFO]: Event created.
+2024-06-27T08:49:10.635Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:49:11.076Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:49:11.285Z [INFO]: Clicked on Month view button
+2024-06-27T08:49:11.299Z [INFO]: Verified the Month view is selected
+2024-06-27T08:49:11.377Z [INFO]: Event created.
+2024-06-27T08:49:11.522Z [INFO]: Event created.
+2024-06-27T08:49:11.660Z [INFO]: Event created.
+2024-06-27T08:49:11.797Z [INFO]: Event created.
+2024-06-27T08:50:42.185Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:50:42.622Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:50:42.877Z [INFO]: Clicked on Month view button
+2024-06-27T08:50:42.888Z [INFO]: Verified the Month view is selected
+2024-06-27T08:50:42.965Z [INFO]: Event created.
+2024-06-27T08:50:43.125Z [INFO]: Event created.
+2024-06-27T08:50:43.267Z [INFO]: Event created.
+2024-06-27T08:50:48.464Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:50:49.279Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:50:49.628Z [INFO]: Clicked on Month view button
+2024-06-27T08:50:49.645Z [INFO]: Verified the Month view is selected
+2024-06-27T08:50:49.747Z [INFO]: Event created.
+2024-06-27T08:50:50.024Z [INFO]: Event created.
+2024-06-27T08:50:50.230Z [INFO]: Event created.
+2024-06-27T08:58:16.376Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:58:16.819Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:58:17.032Z [INFO]: Clicked on Month view button
+2024-06-27T08:58:17.042Z [INFO]: Verified the Month view is selected
+2024-06-27T08:58:17.113Z [INFO]: Event created for tr:nth-child(4) > td > .event-container.
+2024-06-27T08:58:17.249Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T08:58:17.411Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T08:58:17.553Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T08:58:22.979Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T08:58:23.418Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T08:58:23.633Z [INFO]: Clicked on Month view button
+2024-06-27T08:58:23.645Z [INFO]: Verified the Month view is selected
+2024-06-27T08:58:23.730Z [INFO]: Event created for tr:nth-child(4) > td > .event-container.
+2024-06-27T08:58:23.895Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T08:58:24.030Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T08:58:24.179Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T09:01:11.426Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T09:01:11.877Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T09:01:12.090Z [INFO]: Clicked on Month view button
+2024-06-27T09:01:12.103Z [INFO]: Verified the Month view is selected
+2024-06-27T09:01:12.179Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T09:01:12.360Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T09:01:12.508Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T09:01:12.648Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T09:01:18.730Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T09:01:19.168Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T09:01:19.376Z [INFO]: Clicked on Month view button
+2024-06-27T09:01:19.389Z [INFO]: Verified the Month view is selected
+2024-06-27T09:01:19.461Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T09:01:19.610Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T09:01:19.755Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T09:01:19.893Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T09:01:24.812Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T09:01:25.250Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T09:01:25.457Z [INFO]: Clicked on Month view button
+2024-06-27T09:01:25.468Z [INFO]: Verified the Month view is selected
+2024-06-27T09:01:25.545Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T09:01:25.693Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T09:01:25.829Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T09:01:25.978Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T11:30:42.906Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T11:30:43.341Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T11:30:43.571Z [INFO]: Clicked on Month view button
+2024-06-27T11:30:43.586Z [INFO]: Verified the Month view is selected
+2024-06-27T11:30:43.756Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T11:30:43.868Z [ERROR]: Error creating event for tr:nth-child(6) > td > .event-container: locator.click: Test ended.
+Call log:
+  [2m- waiting for locator('tr:nth-child(6) > td > .event-container').first()[22m
+[2m  -   locator resolved to <div class="event-container">…</div>[22m
+[2m  - attempting click action[22m
+[2m  -   waiting for element to be visible, enabled and stable[22m
+[2m  -   element is visible, enabled and stable[22m
+[2m  -   scrolling into view if needed[22m
+[2m  -   done scrolling[22m
+[2m  -   performing click action[22m
+
+2024-06-27T11:30:43.879Z [ERROR]: Error creating event for tr:nth-child(7) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T11:30:43.882Z [ERROR]: Error creating event for tr:nth-child(8) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T11:30:48.700Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T11:30:49.134Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T11:30:49.342Z [INFO]: Clicked on Month view button
+2024-06-27T11:30:49.356Z [INFO]: Verified the Month view is selected
+2024-06-27T11:30:49.508Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T11:30:49.612Z [ERROR]: Error creating event for tr:nth-child(6) > td > .event-container: locator.click: Test ended.
+Call log:
+  [2m- waiting for locator('tr:nth-child(6) > td > .event-container').first()[22m
+[2m  -   locator resolved to <div class="event-container">…</div>[22m
+[2m  - attempting click action[22m
+[2m  -   waiting for element to be visible, enabled and stable[22m
+[2m  -   element is visible, enabled and stable[22m
+[2m  -   scrolling into view if needed[22m
+[2m  -   done scrolling[22m
+[2m  -   performing click action[22m
+
+2024-06-27T11:30:49.625Z [ERROR]: Error creating event for tr:nth-child(7) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T11:30:49.631Z [ERROR]: Error creating event for tr:nth-child(8) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T11:30:54.243Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T11:30:54.672Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T11:30:54.885Z [INFO]: Clicked on Month view button
+2024-06-27T11:30:54.895Z [INFO]: Verified the Month view is selected
+2024-06-27T11:30:55.041Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T11:30:55.143Z [ERROR]: Error creating event for tr:nth-child(6) > td > .event-container: locator.click: Test ended.
+Call log:
+  [2m- waiting for locator('tr:nth-child(6) > td > .event-container').first()[22m
+[2m  -   locator resolved to <div class="event-container">…</div>[22m
+[2m  - attempting click action[22m
+[2m  -   waiting for element to be visible, enabled and stable[22m
+[2m  -   element is visible, enabled and stable[22m
+[2m  -   scrolling into view if needed[22m
+[2m  -   done scrolling[22m
+[2m  -   performing click action[22m
+
+2024-06-27T11:30:55.147Z [ERROR]: Error creating event for tr:nth-child(7) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T11:30:55.155Z [ERROR]: Error creating event for tr:nth-child(8) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T11:31:26.369Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T11:31:26.810Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T11:31:27.033Z [INFO]: Clicked on Month view button
+2024-06-27T11:31:27.044Z [INFO]: Verified the Month view is selected
+2024-06-27T11:31:27.111Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T11:31:27.261Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T11:31:27.414Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T11:31:27.564Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T11:31:33.212Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T11:31:33.661Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T11:31:33.878Z [INFO]: Clicked on Month view button
+2024-06-27T11:31:33.891Z [INFO]: Verified the Month view is selected
+2024-06-27T11:31:33.959Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T11:31:34.109Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T11:31:34.249Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T11:31:34.407Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T11:31:40.111Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T11:31:40.538Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T11:31:40.763Z [INFO]: Clicked on Month view button
+2024-06-27T11:31:40.775Z [INFO]: Verified the Month view is selected
+2024-06-27T11:31:40.845Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T11:31:40.991Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T11:31:41.133Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T11:31:41.280Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:00:47.142Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:00:47.605Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:00:47.808Z [INFO]: Clicked on Month view button
+2024-06-27T12:00:47.831Z [INFO]: Verified the Month view is selected
+2024-06-27T12:00:47.832Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:00:47.915Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:00:47.921Z [INFO]: Accepted dialog for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:00:57.928Z [ERROR]: Error creating event for tr:nth-child(5) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:00:57.930Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:00:58.074Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:00:58.079Z [INFO]: Accepted dialog for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:00:58.110Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:00:58.223Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:00:58.379Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:00:58.382Z [INFO]: Accepted dialog for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:00:58.405Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:00:58.506Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:00:58.688Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T12:00:58.693Z [INFO]: Accepted dialog for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:00:58.729Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:01:03.841Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:01:04.273Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:01:04.481Z [INFO]: Clicked on Month view button
+2024-06-27T12:01:04.491Z [INFO]: Verified the Month view is selected
+2024-06-27T12:01:04.492Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:01:04.579Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:01:04.585Z [INFO]: Accepted dialog for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:01:14.595Z [ERROR]: Error creating event for tr:nth-child(5) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:01:14.596Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:01:14.707Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:01:14.709Z [INFO]: Accepted dialog for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:01:14.729Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:01:14.823Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:01:14.960Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:01:14.962Z [INFO]: Accepted dialog for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:01:14.975Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:01:15.069Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:01:15.211Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T12:01:15.213Z [INFO]: Accepted dialog for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:01:15.229Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:01:20.940Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:01:21.367Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:01:21.570Z [INFO]: Clicked on Month view button
+2024-06-27T12:01:21.580Z [INFO]: Verified the Month view is selected
+2024-06-27T12:01:21.580Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:01:21.659Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:01:21.661Z [INFO]: Accepted dialog for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:01:31.666Z [ERROR]: Error creating event for tr:nth-child(5) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:01:31.667Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:01:31.781Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:01:31.786Z [INFO]: Accepted dialog for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:01:31.809Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:01:31.907Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:01:32.048Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:01:32.050Z [INFO]: Accepted dialog for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:01:32.067Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:01:32.169Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:01:32.315Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T12:01:32.319Z [INFO]: Accepted dialog for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:01:32.331Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:16:01.147Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:16:01.586Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:16:01.808Z [INFO]: Clicked on Month view button
+2024-06-27T12:16:01.823Z [INFO]: Verified the Month view is selected
+2024-06-27T12:16:12.752Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:16:13.187Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:16:13.415Z [INFO]: Clicked on Month view button
+2024-06-27T12:16:13.427Z [INFO]: Verified the Month view is selected
+2024-06-27T12:16:26.341Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:16:26.786Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:16:26.994Z [INFO]: Clicked on Month view button
+2024-06-27T12:16:27.007Z [INFO]: Verified the Month view is selected
+2024-06-27T12:34:05.483Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:34:05.911Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:34:06.119Z [INFO]: Clicked on Month view button
+2024-06-27T12:34:06.144Z [INFO]: Verified the Month view is selected
+2024-06-27T12:34:06.146Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:34:06.231Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:34:16.241Z [ERROR]: Error creating event for tr:nth-child(5) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:34:16.242Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:34:16.293Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:34:26.298Z [ERROR]: Error creating event for tr:nth-child(6) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:34:26.299Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:34:26.340Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:34:31.161Z [ERROR]: Error creating event for tr:nth-child(7) > td > .event-container: page.waitForSelector: Test timeout of 30000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:34:31.162Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:34:31.168Z [ERROR]: Error creating event for tr:nth-child(8) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T12:34:36.592Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:34:37.022Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:34:37.227Z [INFO]: Clicked on Month view button
+2024-06-27T12:34:37.239Z [INFO]: Verified the Month view is selected
+2024-06-27T12:34:37.239Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:34:37.317Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:34:47.324Z [ERROR]: Error creating event for tr:nth-child(5) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:34:47.325Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:34:47.373Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:34:57.377Z [ERROR]: Error creating event for tr:nth-child(6) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:34:57.378Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:34:57.420Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:35:02.415Z [ERROR]: Error creating event for tr:nth-child(7) > td > .event-container: page.waitForSelector: Test timeout of 30000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:35:02.416Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:35:02.423Z [ERROR]: Error creating event for tr:nth-child(8) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T12:35:08.229Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:35:08.700Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:35:08.940Z [INFO]: Clicked on Month view button
+2024-06-27T12:35:08.952Z [INFO]: Verified the Month view is selected
+2024-06-27T12:35:08.952Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:35:09.043Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:35:19.050Z [ERROR]: Error creating event for tr:nth-child(5) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:35:19.051Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:35:19.149Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:35:29.161Z [ERROR]: Error creating event for tr:nth-child(6) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:35:29.162Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:35:29.252Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:35:33.760Z [ERROR]: Error creating event for tr:nth-child(7) > td > .event-container: page.waitForSelector: Test timeout of 30000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:35:33.761Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:35:33.767Z [ERROR]: Error creating event for tr:nth-child(8) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T12:48:44.734Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:48:45.172Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:48:45.377Z [INFO]: Clicked on Month view button
+2024-06-27T12:48:45.389Z [INFO]: Verified the Month view is selected
+2024-06-27T12:48:45.390Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:48:45.457Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:48:45.466Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:48:55.476Z [ERROR]: Error creating event for tr:nth-child(5) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:48:55.477Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:48:55.528Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:48:55.541Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:49:05.545Z [ERROR]: Error creating event for tr:nth-child(6) > td > .event-container: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:49:05.546Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:49:05.575Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:49:05.588Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:49:10.686Z [ERROR]: Error creating event for tr:nth-child(7) > td > .event-container: page.waitForSelector: Test timeout of 30000ms exceeded.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:49:10.687Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:49:10.694Z [ERROR]: Error creating event for tr:nth-child(8) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T12:49:10.700Z [ERROR]: Error verifying events: locator.allTextContents: Target page, context or browser has been closed
+2024-06-27T12:49:16.237Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:49:16.668Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:49:16.867Z [INFO]: Clicked on Month view button
+2024-06-27T12:49:16.877Z [INFO]: Verified the Month view is selected
+2024-06-27T12:49:16.878Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:49:16.936Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:49:16.948Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:49:23.770Z [ERROR]: Error creating event for tr:nth-child(5) > td > .event-container: page.waitForSelector: Test ended.
+Call log:
+  [2m- waiting for locator('//span[text()="New event you just created"]') to be visible[22m
+
+2024-06-27T12:49:23.772Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:49:23.777Z [ERROR]: Error creating event for tr:nth-child(6) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T12:49:23.777Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:49:23.783Z [ERROR]: Error creating event for tr:nth-child(7) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T12:49:23.784Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:49:23.790Z [ERROR]: Error creating event for tr:nth-child(8) > td > .event-container: locator.click: Target page, context or browser has been closed
+2024-06-27T12:49:23.797Z [ERROR]: Error verifying events: locator.allTextContents: Target page, context or browser has been closed
+2024-06-27T12:52:14.371Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:52:14.807Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:52:15.017Z [INFO]: Clicked on Month view button
+2024-06-27T12:52:15.029Z [INFO]: Verified the Month view is selected
+2024-06-27T12:52:15.029Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:52:15.102Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:15.111Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:52:15.111Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:52:15.225Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:52:15.289Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:15.306Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:52:15.307Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:52:15.421Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:52:15.481Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:15.496Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:52:15.497Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:52:15.620Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:52:15.666Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:15.682Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T12:52:15.683Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:52:15.810Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T12:52:15.945Z [INFO]: Clicked on Next month button
+2024-06-27T12:52:15.951Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T12:52:16.056Z [INFO]: Clicked on Previous month button
+2024-06-27T12:52:22.102Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:52:22.537Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:52:22.740Z [INFO]: Clicked on Month view button
+2024-06-27T12:52:22.751Z [INFO]: Verified the Month view is selected
+2024-06-27T12:52:22.751Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:52:22.808Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:22.816Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:52:22.818Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:52:22.925Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:52:22.992Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:23.009Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:52:23.010Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:52:23.120Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:52:23.165Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:23.180Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:52:23.181Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:52:23.287Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:52:23.331Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:23.347Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T12:52:23.347Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:52:23.465Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T12:52:23.587Z [INFO]: Clicked on Next month button
+2024-06-27T12:52:23.594Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T12:52:23.760Z [INFO]: Clicked on Previous month button
+2024-06-27T12:52:31.602Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:52:32.037Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:52:32.242Z [INFO]: Clicked on Month view button
+2024-06-27T12:52:32.253Z [INFO]: Verified the Month view is selected
+2024-06-27T12:52:32.253Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:52:32.315Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:32.329Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:52:32.330Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:52:32.455Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:52:32.523Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:32.539Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:52:32.540Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:52:32.638Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:52:32.693Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:32.710Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:52:32.711Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:52:32.839Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:52:32.882Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:52:32.898Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T12:52:32.900Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:52:33.026Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T12:52:33.162Z [INFO]: Clicked on Next month button
+2024-06-27T12:52:33.167Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T12:52:33.278Z [INFO]: Clicked on Previous month button
+2024-06-27T12:56:25.605Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:56:26.038Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:56:26.244Z [INFO]: Clicked on Month view button
+2024-06-27T12:56:26.257Z [INFO]: Verified the Month view is selected
+2024-06-27T12:56:26.257Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:56:26.322Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:56:26.331Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T12:56:29.338Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:56:29.439Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:56:29.481Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:56:29.498Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T12:56:32.507Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:56:32.610Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:56:32.682Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:56:32.696Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T12:56:35.702Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:56:35.790Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:56:35.831Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:56:35.847Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T12:56:38.854Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:56:38.985Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T12:56:39.096Z [INFO]: Clicked on Next month button
+2024-06-27T12:56:39.109Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T12:56:39.229Z [INFO]: Clicked on Previous month button
+2024-06-27T12:58:37.931Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:58:38.464Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:58:38.707Z [INFO]: Clicked on Month view button
+2024-06-27T12:58:38.720Z [INFO]: Verified the Month view is selected
+2024-06-27T12:58:38.720Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:58:38.790Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:39.130Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:58:39.160Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-06-23 00:00:00, end: 2024-06-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:39.487Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:58:39.513Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-05-23 00:00:00, end: 2024-05-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:39.828Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:58:39.872Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-04-23 00:00:00, end: 2024-04-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:40.265Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T12:58:40.411Z [INFO]: Clicked on Next month button
+2024-06-27T12:58:40.422Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T12:58:40.544Z [INFO]: Clicked on Previous month button
+2024-06-27T12:58:45.641Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:58:46.173Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:58:46.403Z [INFO]: Clicked on Month view button
+2024-06-27T12:58:46.416Z [INFO]: Verified the Month view is selected
+2024-06-27T12:58:46.416Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:58:46.487Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:46.859Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:58:46.926Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-06-23 00:00:00, end: 2024-06-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:47.226Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:58:47.269Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-05-23 00:00:00, end: 2024-05-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:47.543Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:58:47.583Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-04-23 00:00:00, end: 2024-04-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:47.889Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T12:58:48.011Z [INFO]: Clicked on Next month button
+2024-06-27T12:58:48.016Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T12:58:48.127Z [INFO]: Clicked on Previous month button
+2024-06-27T12:58:53.425Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T12:58:53.889Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T12:58:54.112Z [INFO]: Clicked on Month view button
+2024-06-27T12:58:54.126Z [INFO]: Verified the Month view is selected
+2024-06-27T12:58:54.128Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T12:58:54.189Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:54.735Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T12:58:54.797Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-06-23 00:00:00, end: 2024-06-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:55.170Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T12:58:55.213Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-05-23 00:00:00, end: 2024-05-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:55.659Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T12:58:55.729Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-04-23 00:00:00, end: 2024-04-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T12:58:56.082Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T12:58:56.234Z [INFO]: Clicked on Next month button
+2024-06-27T12:58:56.243Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T12:58:56.393Z [INFO]: Clicked on Previous month button
+2024-06-27T13:00:04.387Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:00:04.822Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:00:05.026Z [INFO]: Clicked on Month view button
+2024-06-27T13:00:05.041Z [INFO]: Verified the Month view is selected
+2024-06-27T13:00:05.042Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:00:05.542Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:00:05.947Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:00:06.325Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:00:06.728Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T13:00:06.863Z [INFO]: Clicked on Next month button
+2024-06-27T13:00:06.875Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:00:06.992Z [INFO]: Clicked on Previous month button
+2024-06-27T13:00:12.839Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:00:13.354Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:00:13.595Z [INFO]: Clicked on Month view button
+2024-06-27T13:00:13.615Z [INFO]: Verified the Month view is selected
+2024-06-27T13:00:13.615Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:00:14.087Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:00:14.480Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:00:14.812Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:00:15.158Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T13:00:15.292Z [INFO]: Clicked on Next month button
+2024-06-27T13:00:15.296Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:00:15.416Z [INFO]: Clicked on Previous month button
+2024-06-27T13:01:51.941Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:01:52.450Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:01:52.681Z [INFO]: Clicked on Month view button
+2024-06-27T13:01:52.693Z [INFO]: Verified the Month view is selected
+2024-06-27T13:01:52.693Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:01:53.125Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:01:53.527Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:01:53.897Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:01:54.213Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T13:01:54.341Z [INFO]: Clicked on Next month button
+2024-06-27T13:01:54.347Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:01:54.461Z [INFO]: Clicked on Previous month button
+2024-06-27T13:02:00.908Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:02:01.431Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:02:01.665Z [INFO]: Clicked on Month view button
+2024-06-27T13:02:01.678Z [INFO]: Verified the Month view is selected
+2024-06-27T13:02:01.679Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:02:02.127Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:02:02.461Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:02:02.759Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:02:03.077Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T13:02:03.208Z [INFO]: Clicked on Next month button
+2024-06-27T13:02:03.213Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:02:03.338Z [INFO]: Clicked on Previous month button
+2024-06-27T13:02:09.140Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:02:09.579Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:02:09.798Z [INFO]: Clicked on Month view button
+2024-06-27T13:02:09.811Z [INFO]: Verified the Month view is selected
+2024-06-27T13:02:09.812Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:02:10.277Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:02:10.612Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:02:10.912Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:02:11.232Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m0[39m
+2024-06-27T13:02:11.362Z [INFO]: Clicked on Next month button
+2024-06-27T13:02:11.369Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:02:11.481Z [INFO]: Clicked on Previous month button
+2024-06-27T13:22:43.792Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:22:44.327Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:22:44.548Z [INFO]: Clicked on Month view button
+2024-06-27T13:22:44.559Z [INFO]: Verified the Month view is selected
+2024-06-27T13:22:44.559Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:22:45.364Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:22:45.741Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:22:46.130Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:22:46.555Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m6[39m
+2024-06-27T13:22:46.703Z [INFO]: Clicked on Next month button
+2024-06-27T13:22:46.711Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:22:46.831Z [INFO]: Clicked on Previous month button
+2024-06-27T13:22:51.481Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:22:51.917Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:22:52.146Z [INFO]: Clicked on Month view button
+2024-06-27T13:22:52.159Z [INFO]: Verified the Month view is selected
+2024-06-27T13:22:52.160Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:22:52.970Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:22:53.346Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:22:53.780Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:22:54.209Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m6[39m
+2024-06-27T13:22:54.375Z [INFO]: Clicked on Next month button
+2024-06-27T13:22:54.380Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:22:54.493Z [INFO]: Clicked on Previous month button
+2024-06-27T13:22:59.418Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:22:59.879Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:23:00.153Z [INFO]: Clicked on Month view button
+2024-06-27T13:23:00.165Z [INFO]: Verified the Month view is selected
+2024-06-27T13:23:00.167Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:23:01.181Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:23:01.592Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:23:02.004Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:23:02.401Z [ERROR]: Error verifying events: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+Expected: [32m4[39m
+Received: [31m6[39m
+2024-06-27T13:23:02.556Z [INFO]: Clicked on Next month button
+2024-06-27T13:23:02.560Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:23:02.680Z [INFO]: Clicked on Previous month button
+2024-06-27T13:23:33.607Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:23:34.062Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:23:34.278Z [INFO]: Clicked on Month view button
+2024-06-27T13:23:34.288Z [INFO]: Verified the Month view is selected
+2024-06-27T13:23:34.288Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:23:34.841Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:23:35.094Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:23:35.392Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:23:35.703Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:23:35.857Z [INFO]: Clicked on Next month button
+2024-06-27T13:23:35.864Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:23:35.988Z [INFO]: Clicked on Previous month button
+2024-06-27T13:23:45.080Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:23:45.521Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:23:45.727Z [INFO]: Clicked on Month view button
+2024-06-27T13:23:45.741Z [INFO]: Verified the Month view is selected
+2024-06-27T13:23:45.741Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:23:46.287Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:23:46.540Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:23:46.771Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:23:47.024Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:23:47.168Z [INFO]: Clicked on Next month button
+2024-06-27T13:23:47.174Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:23:47.324Z [INFO]: Clicked on Previous month button
+2024-06-27T13:23:52.022Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:23:52.473Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:23:52.716Z [INFO]: Clicked on Month view button
+2024-06-27T13:23:52.728Z [INFO]: Verified the Month view is selected
+2024-06-27T13:23:52.728Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:23:53.296Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:23:53.580Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:23:53.846Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:23:54.130Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:23:54.266Z [INFO]: Clicked on Next month button
+2024-06-27T13:23:54.275Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:23:54.422Z [INFO]: Clicked on Previous month button
+2024-06-27T13:25:33.312Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:25:33.775Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:25:33.995Z [INFO]: Clicked on Month view button
+2024-06-27T13:25:34.008Z [INFO]: Verified the Month view is selected
+2024-06-27T13:25:34.009Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:25:34.065Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:25:34.144Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T13:25:37.148Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:25:37.252Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:25:37.310Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:25:37.414Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T13:25:40.422Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:25:40.517Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:25:40.564Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:25:40.693Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T13:25:43.699Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:25:43.803Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:25:43.848Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:25:43.941Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T13:25:46.947Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:25:47.054Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:25:47.178Z [INFO]: Clicked on Next month button
+2024-06-27T13:25:47.189Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:25:47.295Z [INFO]: Clicked on Previous month button
+2024-06-27T13:25:52.573Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:25:53.006Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:25:53.208Z [INFO]: Clicked on Month view button
+2024-06-27T13:25:53.218Z [INFO]: Verified the Month view is selected
+2024-06-27T13:25:53.219Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:25:53.284Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:25:53.361Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T13:25:56.365Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:25:56.451Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:25:56.499Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:25:56.590Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T13:25:59.596Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:25:59.689Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:25:59.745Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:25:59.826Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T13:26:02.830Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:26:02.921Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:26:02.964Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:26:03.046Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T13:26:06.050Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:26:06.156Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:26:06.248Z [INFO]: Clicked on Next month button
+2024-06-27T13:26:06.256Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:26:06.370Z [INFO]: Clicked on Previous month button
+2024-06-27T13:26:11.636Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:26:12.088Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:26:12.302Z [INFO]: Clicked on Month view button
+2024-06-27T13:26:12.316Z [INFO]: Verified the Month view is selected
+2024-06-27T13:26:12.316Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:26:12.388Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:26:12.469Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T13:26:15.474Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:26:15.568Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:26:15.610Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:26:15.695Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T13:26:18.698Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:26:18.785Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:26:18.830Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:26:18.910Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T13:26:21.913Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:26:21.998Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:26:22.045Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:26:22.136Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T13:26:25.139Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:26:25.248Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:26:25.347Z [INFO]: Clicked on Next month button
+2024-06-27T13:26:25.355Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:26:25.471Z [INFO]: Clicked on Previous month button
+2024-06-27T13:29:59.507Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:29:59.951Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:30:00.205Z [INFO]: Clicked on Month view button
+2024-06-27T13:30:00.218Z [INFO]: Verified the Month view is selected
+2024-06-27T13:30:00.219Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:30:00.310Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:00.407Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T13:30:00.427Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:30:00.544Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:30:00.619Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:00.709Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T13:30:00.737Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:30:00.877Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:30:00.966Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:01.060Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T13:30:01.079Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:30:01.189Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:30:01.255Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:01.342Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T13:30:01.364Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:30:01.464Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:30:01.604Z [INFO]: Clicked on Next month button
+2024-06-27T13:30:01.611Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:30:01.718Z [INFO]: Clicked on Previous month button
+2024-06-27T13:30:09.451Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:30:09.892Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:30:10.108Z [INFO]: Clicked on Month view button
+2024-06-27T13:30:10.119Z [INFO]: Verified the Month view is selected
+2024-06-27T13:30:10.120Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:30:10.187Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:10.261Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T13:30:10.281Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:30:10.381Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:30:10.449Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:10.543Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T13:30:10.558Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:30:10.674Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:30:10.747Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:10.826Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T13:30:10.837Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:30:10.921Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:30:10.964Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:11.059Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T13:30:11.071Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:30:11.161Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:30:11.306Z [INFO]: Clicked on Next month button
+2024-06-27T13:30:11.311Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:30:11.416Z [INFO]: Clicked on Previous month button
+2024-06-27T13:30:16.162Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:30:16.618Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:30:16.826Z [INFO]: Clicked on Month view button
+2024-06-27T13:30:16.836Z [INFO]: Verified the Month view is selected
+2024-06-27T13:30:16.837Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:30:16.907Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:16.991Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T13:30:17.011Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:30:17.121Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:30:17.185Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:17.275Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T13:30:17.289Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:30:17.408Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:30:17.465Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:17.547Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T13:30:17.560Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:30:17.653Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:30:17.703Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:30:17.804Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T13:30:17.812Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:30:17.921Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:30:18.047Z [INFO]: Clicked on Next month button
+2024-06-27T13:30:18.055Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:30:18.182Z [INFO]: Clicked on Previous month button
+2024-06-27T13:32:40.058Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-27T13:32:40.488Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T13:32:40.691Z [INFO]: Clicked on Month view button
+2024-06-27T13:32:40.710Z [INFO]: Verified the Month view is selected
+2024-06-27T13:32:40.712Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:32:40.809Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:32:40.917Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-27T13:32:40.948Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-27T13:32:41.067Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:32:41.140Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:32:41.223Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-27T13:32:41.240Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-27T13:32:41.342Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:32:41.407Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:32:41.489Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-27T13:32:41.505Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-27T13:32:41.601Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:32:41.666Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-27T13:32:41.761Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-27T13:32:41.778Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-27T13:32:41.892Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-27T13:32:42.043Z [INFO]: Clicked on Next month button
+2024-06-27T13:32:42.053Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-27T13:32:42.173Z [INFO]: Clicked on Previous month button
+2024-06-27T13:32:42.182Z [INFO]: Verified that "New event you just created" not exists in the original month
+2024-06-27T18:13:35.593Z [INFO]: https://stephenchou1017.github.io/scheduler
+2024-06-27T18:13:40.934Z [INFO]: https://stephenchou1017.github.io/scheduler
+2024-06-27T18:13:45.770Z [INFO]: https://stephenchou1017.github.io/scheduler
+2024-06-27T18:17:54.187Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:17:54.390Z [INFO]: Clicked on Month view button
+2024-06-27T18:18:00.062Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:18:00.290Z [INFO]: Clicked on Month view button
+2024-06-27T18:18:06.124Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:18:06.332Z [INFO]: Clicked on Month view button
+2024-06-27T18:19:52.537Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:19:52.741Z [INFO]: Clicked on Month view button
+2024-06-27T18:20:07.917Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:20:08.139Z [INFO]: Clicked on Month view button
+2024-06-27T18:20:23.518Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:20:23.774Z [INFO]: Clicked on Month view button
+2024-06-27T18:28:45.024Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:28:45.229Z [INFO]: Clicked on Month view button
+2024-06-27T18:29:00.243Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:29:00.510Z [INFO]: Clicked on Month view button
+2024-06-27T18:29:16.373Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:29:16.616Z [INFO]: Clicked on Month view button
+2024-06-27T18:36:11.571Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:36:11.817Z [INFO]: Clicked on Month view button
+2024-06-27T18:36:11.987Z [INFO]: Dialog message: Do you want to move the event? {eventId: 10-689, eventTitle: R1 has recurring tasks every week on Tuesday, Friday, newSlotId: r4, newSlotName: Resource4, newStart: 2024-07-23 18:30:00, newEnd: 2024-07-24 00:30:00
+2024-06-27T18:54:53.623Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T18:54:53.834Z [INFO]: Clicked on Month view button
+2024-06-27T18:54:54.014Z [INFO]: Dialog message: Do you want to move the event? {eventId: 10-689, eventTitle: R1 has recurring tasks every week on Tuesday, Friday, newSlotId: r4, newSlotName: Resource4, newStart: 2024-07-23 18:30:00, newEnd: 2024-07-24 00:30:00
+2024-06-27T18:54:54.113Z [INFO]: Event moved from left: 2002px to left: 2322px
+2024-06-27T19:00:14.639Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T19:00:14.854Z [INFO]: Clicked on Month view button
+2024-06-27T19:00:15.035Z [INFO]: Dialog message: Do you want to move the event? {eventId: 10-689, eventTitle: R1 has recurring tasks every week on Tuesday, Friday, newSlotId: r4, newSlotName: Resource4, newStart: 2024-07-23 18:30:00, newEnd: 2024-07-24 00:30:00
+2024-06-27T19:00:15.156Z [INFO]: Event moved from left: 2002px to left: 2322px
+2024-06-27T19:05:54.527Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T19:05:54.736Z [INFO]: Clicked on Month view button
+2024-06-27T19:05:54.916Z [INFO]: Dialog message: Do you want to move the event? {eventId: 10-689, eventTitle: R1 has recurring tasks every week on Tuesday, Friday, newSlotId: r4, newSlotName: Resource4, newStart: 2024-07-23 18:30:00, newEnd: 2024-07-24 00:30:00
+2024-06-27T19:05:55.025Z [INFO]: Event moved from left: 2002px to left: 2322px
+2024-06-27T19:05:58.825Z [INFO]: Clicked on Infinite scroll button
+2024-06-27T19:05:59.041Z [INFO]: Clicked on Month view button
+2024-06-27T19:05:59.181Z [INFO]: Dialog message: Do you want to move the event? {eventId: 10-689, eventTitle: R1 has recurring tasks every week on Tuesday, Friday, newSlotId: r5, newSlotName: Resource5, newStart: 2024-07-23 18:30:00, newEnd: 2024-07-24 00:30:00
+2024-06-27T19:05:59.278Z [INFO]: Event duration extended from left: 2002px to left: 2322px
+2024-06-28T05:33:33.019Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T05:33:33.290Z [INFO]: Clicked on Month view button
+2024-06-28T05:33:33.491Z [INFO]: Dialog message: Do you want to move the event? {eventId: 10-689, eventTitle: R1 has recurring tasks every week on Tuesday, Friday, newSlotId: r4, newSlotName: Resource4, newStart: 2024-07-23 18:30:00, newEnd: 2024-07-24 00:30:00
+2024-06-28T05:33:33.630Z [INFO]: Event moved from left: 2002px to left: 2322px
+2024-06-28T05:33:37.581Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T05:33:37.805Z [INFO]: Clicked on Month view button
+2024-06-28T05:33:37.984Z [INFO]: Dialog message: Do you want to move the event? {eventId: 10-689, eventTitle: R1 has recurring tasks every week on Tuesday, Friday, newSlotId: r5, newSlotName: Resource5, newStart: 2024-07-23 18:30:00, newEnd: 2024-07-24 00:30:00
+2024-06-28T05:33:38.097Z [INFO]: Event duration extended from left: 2002px to left: 2322px
+2024-06-28T07:26:58.356Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T07:26:58.578Z [INFO]: Clicked on Month view button
+2024-06-28T07:51:23.066Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T07:51:23.287Z [INFO]: Clicked on Month view button
+2024-06-28T07:51:27.453Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T07:51:27.464Z [INFO]: Day view is selected by default
+2024-06-28T07:51:27.693Z [INFO]: Clicked on Month view button
+2024-06-28T07:51:27.700Z [INFO]: Month view is active
+2024-06-28T07:51:27.896Z [INFO]: Clicked on Day view button
+2024-06-28T07:51:27.910Z [INFO]: Day view is active again
+2024-06-28T08:07:22.510Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:07:22.594Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-06-30 13:00:00, end: 2024-06-30 13:30:00, type: undefined, item: undefined}
+2024-06-28T08:07:22.663Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-28T08:07:22.677Z [INFO]: New event created successfully.
+2024-06-28T08:07:22.677Z [INFO]: New event created successfully
+2024-06-28T08:25:07.844Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:25:07.927Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-06-30 13:00:00, end: 2024-06-30 13:30:00, type: undefined, item: undefined}
+2024-06-28T08:25:07.993Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-28T08:25:08.005Z [INFO]: New event created successfully.
+2024-06-28T08:25:08.007Z [INFO]: New event created successfully
+2024-06-28T08:27:23.412Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:27:23.494Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-06-30 13:00:00, end: 2024-06-30 13:30:00, type: undefined, item: undefined}
+2024-06-28T08:27:23.558Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-28T08:27:23.565Z [INFO]: New event created successfully.
+2024-06-28T08:27:23.566Z [INFO]: New event created successfully in Day view
+2024-06-28T08:27:27.528Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:27:27.742Z [INFO]: Clicked on Month view button
+2024-06-28T08:27:27.823Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-23 00:00:00, end: 2024-07-23 23:59:59, type: undefined, item: undefined}
+2024-06-28T08:27:27.928Z [INFO]: Clicked on a time slot to create a new event in Month view.
+2024-06-28T08:27:27.935Z [INFO]: New event created successfully in Month view.
+2024-06-28T08:27:27.938Z [INFO]: New event created successfully in Month view
+2024-06-28T08:41:20.893Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:41:21.121Z [INFO]: Clicked on Month view button
+2024-06-28T08:41:36.561Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:41:36.810Z [INFO]: Clicked on Month view button
+2024-06-28T08:41:52.999Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:41:53.238Z [INFO]: Clicked on Month view button
+2024-06-28T08:43:50.916Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:43:51.144Z [INFO]: Clicked on Month view button
+2024-06-28T08:45:59.364Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:45:59.616Z [INFO]: Clicked on Month view button
+2024-06-28T08:45:59.680Z [INFO]: Clicked on the recurring task event
+2024-06-28T08:46:08.192Z [ERROR]: Error in test: Error: page.waitForEvent: Test ended.
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-28T08:46:36.299Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T08:46:36.519Z [INFO]: Clicked on Month view button
+2024-06-28T08:46:36.585Z [INFO]: Clicked on the recurring task event
+2024-06-28T08:46:46.599Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-28T19:49:19.843Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T19:49:20.094Z [INFO]: Clicked on Month view button
+2024-06-28T19:49:20.169Z [INFO]: Clicked on the recurring task event
+2024-06-28T19:49:30.182Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-28T19:49:35.667Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T19:49:35.898Z [INFO]: Clicked on Month view button
+2024-06-28T19:49:35.969Z [INFO]: Clicked on the recurring task event
+2024-06-28T19:49:45.982Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-28T19:49:51.246Z [INFO]: Clicked on Infinite scroll button
+2024-06-28T19:49:51.496Z [INFO]: Clicked on Month view button
+2024-06-28T19:49:51.562Z [INFO]: Clicked on the recurring task event
+2024-06-28T19:50:01.568Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:42:55.968Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:42:56.152Z [INFO]: Clicked on Month view button
+2024-06-29T04:42:56.166Z [INFO]: Clicked on the recurring task event using JS script
+2024-06-29T04:43:06.174Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:43:11.254Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:43:11.404Z [INFO]: Clicked on Month view button
+2024-06-29T04:43:11.422Z [INFO]: Clicked on the recurring task event using JS script
+2024-06-29T04:43:21.434Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:43:26.967Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:43:27.124Z [INFO]: Clicked on Month view button
+2024-06-29T04:43:27.139Z [INFO]: Clicked on the recurring task event using JS script
+2024-06-29T04:43:37.148Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:52:25.085Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:52:25.243Z [INFO]: Clicked on Month view button
+2024-06-29T04:52:25.462Z [INFO]: Clicked on the recurring task event using Playwright click method
+2024-06-29T04:52:33.402Z [ERROR]: Error in test: Error: page.waitForEvent: Test ended.
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:55:51.572Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:55:51.726Z [INFO]: Clicked on Month view button
+2024-06-29T04:55:51.893Z [INFO]: Hovered over the recurring task event
+2024-06-29T04:55:51.905Z [INFO]: Clicked on the recurring task event using JavaScript click method
+2024-06-29T04:56:01.918Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:56:07.649Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:56:07.795Z [INFO]: Clicked on Month view button
+2024-06-29T04:56:07.967Z [INFO]: Hovered over the recurring task event
+2024-06-29T04:56:07.985Z [INFO]: Clicked on the recurring task event using JavaScript click method
+2024-06-29T04:56:17.999Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:56:24.388Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:56:24.540Z [INFO]: Clicked on Month view button
+2024-06-29T04:56:24.705Z [INFO]: Hovered over the recurring task event
+2024-06-29T04:56:24.718Z [INFO]: Clicked on the recurring task event using JavaScript click method
+2024-06-29T04:56:34.731Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:58:24.813Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:58:24.957Z [INFO]: Clicked on Month view button
+2024-06-29T04:58:25.134Z [INFO]: Hovered over the recurring task event
+2024-06-29T04:58:25.166Z [INFO]: Clicked on the recurring task event using force click method
+2024-06-29T04:58:35.176Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:58:40.776Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:58:40.920Z [INFO]: Clicked on Month view button
+2024-06-29T04:58:41.111Z [INFO]: Hovered over the recurring task event
+2024-06-29T04:58:41.145Z [INFO]: Clicked on the recurring task event using force click method
+2024-06-29T04:58:51.155Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T04:58:56.524Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T04:58:56.677Z [INFO]: Clicked on Month view button
+2024-06-29T04:58:56.835Z [INFO]: Hovered over the recurring task event
+2024-06-29T04:58:56.869Z [INFO]: Clicked on the recurring task event using force click method
+2024-06-29T04:59:06.880Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T05:01:16.921Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:01:17.076Z [INFO]: Clicked on Month view button
+2024-06-29T05:01:17.241Z [INFO]: Hovered over the recurring task event
+2024-06-29T05:01:17.271Z [INFO]: Clicked on the recurring task event using force click method
+2024-06-29T05:01:27.284Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T05:01:33.185Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:01:33.333Z [INFO]: Clicked on Month view button
+2024-06-29T05:01:33.504Z [INFO]: Hovered over the recurring task event
+2024-06-29T05:01:33.543Z [INFO]: Clicked on the recurring task event using force click method
+2024-06-29T05:01:43.550Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T05:01:48.975Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:01:49.134Z [INFO]: Clicked on Month view button
+2024-06-29T05:01:49.596Z [INFO]: Hovered over the recurring task event
+2024-06-29T05:01:49.619Z [INFO]: Clicked on the recurring task event using force click method
+2024-06-29T05:01:59.627Z [ERROR]: Error in test: TimeoutError: page.waitForEvent: Timeout 10000ms exceeded while waiting for event "dialog"
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T05:03:48.463Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:03:48.631Z [INFO]: Clicked on Month view button
+2024-06-29T05:03:48.807Z [INFO]: Hovered over the recurring task event
+2024-06-29T05:03:48.882Z [INFO]: Double-clicked on the recurring task event using Playwright dblclick method
+2024-06-29T05:03:57.233Z [ERROR]: Error in test: Error: page.waitForEvent: Test ended.
+=========================== logs ===========================
+waiting for event "dialog"
+============================================================
+2024-06-29T05:19:10.970Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:19:11.123Z [INFO]: Clicked on Month view button
+2024-06-29T05:22:55.871Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:22:56.008Z [INFO]: Clicked on Month view button
+2024-06-29T05:28:51.446Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:28:51.597Z [INFO]: Clicked on Month view button
+2024-06-29T05:28:51.946Z [INFO]: Event moved from left: 2002px to left: 2322px
+2024-06-29T05:28:56.867Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:28:57.019Z [INFO]: Clicked on Month view button
+2024-06-29T05:28:57.382Z [INFO]: Event duration extended from left: 2002px to left: 2322px
+2024-06-29T05:44:25.259Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:44:25.412Z [INFO]: Clicked on Month view button
+2024-06-29T05:44:26.250Z [INFO]: Event moved down to (1113.5, 234.5625)
+2024-06-29T05:44:26.878Z [INFO]: Event moved right to (865.5, 234.5625)
+2024-06-29T05:44:27.496Z [INFO]: Event moved up to (865.5, 234.5625)
+2024-06-29T05:44:28.116Z [INFO]: Event moved left to (865.5, 234.5625)
+2024-06-29T05:45:11.727Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:45:11.881Z [INFO]: Clicked on Month view button
+2024-06-29T05:45:17.221Z [INFO]: Event moved down to (1113.5, 234.5625)
+2024-06-29T05:45:22.371Z [INFO]: Event moved right to (865.5, 234.5625)
+2024-06-29T05:45:27.506Z [INFO]: Event moved up to (865.5, 234.5625)
+2024-06-29T05:45:32.616Z [INFO]: Event moved left to (865.5, 234.5625)
+2024-06-29T05:47:54.803Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:47:54.969Z [INFO]: Clicked on Month view button
+2024-06-29T05:47:55.333Z [INFO]: Event moved from left: 2002px to left: 2322px
+2024-06-29T05:48:00.014Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:48:00.203Z [INFO]: Clicked on Month view button
+2024-06-29T05:48:00.571Z [INFO]: Event duration extended from left: 2002px to left: 2322px
+2024-06-29T05:58:08.394Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T05:58:08.585Z [INFO]: Clicked on Month view button
+2024-06-29T05:58:09.247Z [INFO]: Event moved down to (1833.5, 234.5625)
+2024-06-29T05:58:09.797Z [INFO]: Event moved right to (1833.5, 234.5625)
+2024-06-29T05:58:10.366Z [INFO]: Event moved up to (1833.5, 234.5625)
+2024-06-29T05:58:10.925Z [INFO]: Event moved left to (1833.5, 234.5625)
+2024-06-29T13:11:27.070Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:11:27.215Z [INFO]: Clicked on Month view button
+2024-06-29T13:11:27.303Z [INFO]: Event moved down to (1833.5, 234.5625)
+2024-06-29T13:11:27.394Z [INFO]: Event moved right to (1833.5, 234.5625)
+2024-06-29T13:11:27.478Z [INFO]: Event moved up to (1833.5, 234.5625)
+2024-06-29T13:11:27.539Z [INFO]: Event moved left to (1833.5, 234.5625)
+2024-06-29T13:12:15.322Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:12:15.375Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:12:15.449Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:12:15.467Z [INFO]: New event created successfully.
+2024-06-29T13:12:15.468Z [INFO]: New event created successfully in Day view
+2024-06-29T13:12:20.553Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:12:20.734Z [INFO]: Clicked on Month view button
+2024-06-29T13:12:20.801Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-11 00:00:00, end: 2024-07-11 23:59:59, type: undefined, item: undefined}
+2024-06-29T13:12:20.880Z [INFO]: Clicked on a time slot to create a new event in Month view.
+2024-06-29T13:12:20.886Z [INFO]: New event created successfully in Month view.
+2024-06-29T13:12:20.886Z [INFO]: New event created successfully in Month view
+2024-06-29T13:12:24.843Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:12:24.900Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:12:24.902Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:12:24.969Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:12:31.529Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:12:31.610Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:12:31.613Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:12:31.670Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:12:37.693Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:12:37.738Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:12:37.746Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:12:37.821Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:15:48.218Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:15:48.295Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:15:48.369Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:15:48.384Z [INFO]: New event created successfully.
+2024-06-29T13:15:48.385Z [INFO]: New event created successfully in Day view
+2024-06-29T13:15:52.428Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:15:52.612Z [INFO]: Clicked on Month view button
+2024-06-29T13:15:52.670Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-11 00:00:00, end: 2024-07-11 23:59:59, type: undefined, item: undefined}
+2024-06-29T13:15:52.746Z [INFO]: Clicked on a time slot to create a new event in Month view.
+2024-06-29T13:15:52.753Z [INFO]: New event created successfully in Month view.
+2024-06-29T13:15:52.754Z [INFO]: New event created successfully in Month view
+2024-06-29T13:15:58.585Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:15:58.654Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:15:58.658Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:15:58.663Z [INFO]: Dialog dismissed
+2024-06-29T13:15:58.744Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:16:04.935Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:16:04.987Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:16:04.992Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:16:04.993Z [INFO]: Dialog dismissed
+2024-06-29T13:16:05.065Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:17:58.860Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:17:58.933Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:17:59.015Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:17:59.042Z [INFO]: New event created successfully.
+2024-06-29T13:17:59.044Z [INFO]: New event created successfully in Day view
+2024-06-29T13:18:04.031Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:18:04.168Z [INFO]: Clicked on Month view button
+2024-06-29T13:18:04.220Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-11 00:00:00, end: 2024-07-11 23:59:59, type: undefined, item: undefined}
+2024-06-29T13:18:04.301Z [INFO]: Clicked on a time slot to create a new event in Month view.
+2024-06-29T13:18:04.314Z [INFO]: New event created successfully in Month view.
+2024-06-29T13:18:04.315Z [INFO]: New event created successfully in Month view
+2024-06-29T13:18:09.280Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:18:09.340Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:18:09.342Z [INFO]: Dialog dismissed
+2024-06-29T13:18:09.352Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:18:12.364Z [INFO]: New event was not created because the dialog was dismissed.
+2024-06-29T13:18:12.365Z [INFO]: New event was not created as expected because the dialog was dismissed
+2024-06-29T13:18:39.225Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:18:39.280Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:18:39.364Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:18:39.381Z [INFO]: New event created successfully.
+2024-06-29T13:18:39.383Z [INFO]: New event created successfully in Day view
+2024-06-29T13:18:43.267Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:18:43.406Z [INFO]: Clicked on Month view button
+2024-06-29T13:18:43.451Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-11 00:00:00, end: 2024-07-11 23:59:59, type: undefined, item: undefined}
+2024-06-29T13:18:43.530Z [INFO]: Clicked on a time slot to create a new event in Month view.
+2024-06-29T13:18:43.535Z [INFO]: New event created successfully in Month view.
+2024-06-29T13:18:43.536Z [INFO]: New event created successfully in Month view
+2024-06-29T13:18:48.380Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:18:48.441Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:18:48.444Z [INFO]: Dialog dismissed
+2024-06-29T13:18:48.450Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:18:48.460Z [INFO]: New event was not created because the dialog was dismissed.
+2024-06-29T13:18:48.461Z [INFO]: New event was not created as expected because the dialog was dismissed
+2024-06-29T13:28:58.217Z [INFO]: Starting test: Create new events, navigate months, and verify existence
+2024-06-29T13:28:59.313Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:28:59.519Z [INFO]: Clicked on Month view button
+2024-06-29T13:28:59.551Z [INFO]: Verified the Month view is selected
+2024-06-29T13:28:59.552Z [INFO]: Attempting to create event for tr:nth-child(5) > td > .event-container.
+2024-06-29T13:28:59.643Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-11 00:00:00, end: 2024-07-11 23:59:59, type: undefined, item: undefined}
+2024-06-29T13:28:59.782Z [INFO]: Clicked on slot tr:nth-child(5) > td > .event-container.
+2024-06-29T13:28:59.832Z [INFO]: Event created for tr:nth-child(5) > td > .event-container.
+2024-06-29T13:29:00.013Z [INFO]: Attempting to create event for tr:nth-child(6) > td > .event-container.
+2024-06-29T13:29:00.101Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-11 00:00:00, end: 2024-07-11 23:59:59, type: undefined, item: undefined}
+2024-06-29T13:29:00.331Z [INFO]: Clicked on slot tr:nth-child(6) > td > .event-container.
+2024-06-29T13:29:00.375Z [INFO]: Event created for tr:nth-child(6) > td > .event-container.
+2024-06-29T13:29:00.548Z [INFO]: Attempting to create event for tr:nth-child(7) > td > .event-container.
+2024-06-29T13:29:00.624Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r6, slotName: Resource6, start: 2024-07-11 00:00:00, end: 2024-07-11 23:59:59, type: undefined, item: undefined}
+2024-06-29T13:29:00.922Z [INFO]: Clicked on slot tr:nth-child(7) > td > .event-container.
+2024-06-29T13:29:00.953Z [INFO]: Event created for tr:nth-child(7) > td > .event-container.
+2024-06-29T13:29:01.096Z [INFO]: Attempting to create event for tr:nth-child(8) > td > .event-container.
+2024-06-29T13:29:01.196Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r7, slotName: Resource7Resource7Resource7Resource7Resource7, start: 2024-07-11 00:00:00, end: 2024-07-11 23:59:59, type: undefined, item: undefined}
+2024-06-29T13:29:01.485Z [INFO]: Clicked on slot tr:nth-child(8) > td > .event-container.
+2024-06-29T13:29:01.537Z [INFO]: Event created for tr:nth-child(8) > td > .event-container.
+2024-06-29T13:29:01.701Z [INFO]: Verified that 4 new events exist in the calendar.
+2024-06-29T13:29:01.973Z [INFO]: Clicked on Next month button
+2024-06-29T13:29:01.989Z [INFO]: Verified that "New event you just created" does not exist in the next month
+2024-06-29T13:29:02.294Z [INFO]: Clicked on Previous month button
+2024-06-29T13:29:02.317Z [INFO]: Verified that "New event you just created" not exists in the original month
+2024-06-29T13:29:02.322Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:29:02.376Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:29:02.894Z [INFO]: Clicked on Month view button
+2024-06-29T13:29:02.912Z [INFO]: Clicked on Month view button
+2024-06-29T13:29:03.363Z [INFO]: Event moved down to (1833.5, 234.5625)
+2024-06-29T13:29:03.565Z [INFO]: Event moved right to (1833.5, 234.5625)
+2024-06-29T13:29:03.703Z [INFO]: Event moved up to (1833.5, 234.5625)
+2024-06-29T13:29:03.884Z [INFO]: Event moved left to (1833.5, 234.5625)
+2024-06-29T13:29:04.397Z [INFO]: Dialog message: Do you want to move the event? {eventId: 10-715, eventTitle: R1 has recurring tasks every week on Tuesday, Friday, newSlotId: r4, newSlotName: Resource4, newStart: 2024-10-23 18:30:00, newEnd: 2024-10-24 00:30:00
+2024-06-29T13:29:04.399Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:29:04.713Z [INFO]: Event moved from left: 2002px to left: 2242px
+2024-06-29T13:29:04.833Z [INFO]: Clicked on Month view button
+2024-06-29T13:29:08.768Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:29:08.846Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r2, slotName: Resource2, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:29:08.986Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:29:09.001Z [INFO]: New event created successfully.
+2024-06-29T13:29:09.002Z [INFO]: New event created successfully in Day view
+2024-06-29T13:29:10.569Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:29:10.650Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:29:10.671Z [INFO]: Day view is selected by default
+2024-06-29T13:29:10.801Z [INFO]: Clicked on Month view button
+2024-06-29T13:29:10.894Z [INFO]: Clicked on Month view button
+2024-06-29T13:29:10.912Z [INFO]: Month view is active
+2024-06-29T13:29:11.102Z [INFO]: Clicked on Day view button
+2024-06-29T13:29:11.122Z [INFO]: Day view is active again
+2024-06-29T13:29:11.505Z [INFO]: Event duration extended from left: 2002px to left: 2322px
+2024-06-29T13:29:13.797Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:29:13.959Z [INFO]: Clicked on Month view button
+2024-06-29T13:29:14.032Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r4, slotName: Resource4, start: 2024-07-11 00:00:00, end: 2024-07-11 23:59:59, type: undefined, item: undefined}
+2024-06-29T13:29:14.121Z [INFO]: Clicked on a time slot to create a new event in Month view.
+2024-06-29T13:29:14.133Z [INFO]: New event created successfully in Month view.
+2024-06-29T13:29:14.133Z [INFO]: New event created successfully in Month view
+2024-06-29T13:29:18.889Z [INFO]: Clicked on Infinite scroll button
+2024-06-29T13:29:18.952Z [INFO]: Dialog message: Do you want to create a new event? {slotId: r5, slotName: Resource5, start: 2024-07-01 13:00:00, end: 2024-07-01 13:30:00, type: undefined, item: undefined}
+2024-06-29T13:29:18.955Z [INFO]: Dialog dismissed
+2024-06-29T13:29:18.966Z [INFO]: Clicked on a time slot to create a new event.
+2024-06-29T13:29:18.982Z [INFO]: New event was not created because the dialog was dismissed.
+2024-06-29T13:29:18.984Z [INFO]: New event was not created as expected because the dialog was dismissed

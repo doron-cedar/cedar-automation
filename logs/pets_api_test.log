@@ -1,0 +1,266 @@
+2024-06-21T16:24:52.061Z [INFO]: Request: Adding a pet with data: {"id":49,"category":{"id":3,"name":"Chinchilla"},"name":"Archie","photoUrls":["https://www.shutterstock.com/image-photo/charming-chinchilla-cage-pedigree-gray-pet-2244602299"],"tags":[{"id":76,"name":"string"}],"status":"available"}
+2024-06-21T16:24:52.764Z [INFO]: Response: 200 - {"id":49,"category":{"id":3,"name":"Chinchilla"},"name":"Archie","photoUrls":["https://www.shutterstock.com/image-photo/charming-chinchilla-cage-pedigree-gray-pet-2244602299"],"tags":[{"id":76,"name":"string"}],"status":"available"}
+2024-06-21T16:24:52.813Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T16:24:52.965Z [INFO]: Response: 200 - {"id":9223372036854665000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T16:24:52.981Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T16:24:53.155Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T16:24:53.776Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T16:24:54.451Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T16:24:55.026Z [INFO]: Request: Adding a pet to invalid endpoint with data: {"id":276,"category":{"id":56,"name":"Rabbit"},"name":"Sadie","photoUrls":["https://www.shutterstock.com/image-photo/easter-bunny-hare-cottontail-rabbit-domestic-2437814323"],"tags":[{"id":72,"name":"string"}],"status":"available"}
+2024-06-21T16:24:55.697Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/invalid_endpoint"}
+2024-06-21T16:24:56.262Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/pet/1, data: {"id":566,"category":{"id":54,"name":"Ferret"},"name":"Bella","photoUrls":["https://www.shutterstock.com/image-photo/endangered-animal-blackfooted-ferret-2353456945"],"tags":[{"id":97,"name":"string"}],"status":"available"}
+2024-06-21T16:24:56.959Z [INFO]: Response: 405 - {"code":405,"type":"unknown"}
+2024-06-21T16:39:47.574Z [INFO]: Request: Adding a pet with data: {"id":892,"category":{"id":18,"name":"Rabbit"},"name":"Zoe","photoUrls":["https://www.shutterstock.com/image-photo/easter-bunny-hare-cottontail-rabbit-domestic-2437814323"],"tags":[{"id":82,"name":"string"}],"status":"available"}
+2024-06-21T16:39:48.296Z [INFO]: Response: 200 - {"id":892,"category":{"id":18,"name":"Rabbit"},"name":"Zoe","photoUrls":["https://www.shutterstock.com/image-photo/easter-bunny-hare-cottontail-rabbit-domestic-2437814323"],"tags":[{"id":82,"name":"string"}],"status":"available"}
+2024-06-21T16:39:48.345Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T16:39:48.491Z [INFO]: Response: 200 - {"id":9223372036854666000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T16:39:48.508Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T16:39:48.681Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T16:39:49.297Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T16:39:49.932Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T16:39:50.424Z [INFO]: Request: Adding a pet to invalid endpoint with data: {"id":91,"category":{"id":48,"name":"Dog"},"name":"Toby","photoUrls":["https://www.shutterstock.com/image-photo/funny-dog-licking-lips-tongue-out-1761385949"],"tags":[{"id":4,"name":"string"}],"status":"available"}
+2024-06-21T16:39:51.146Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/invalid_endpoint"}
+2024-06-21T16:39:51.720Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/pet/1, data: {"id":357,"category":{"id":53,"name":"Frog"},"name":"Chloe","photoUrls":["https://www.shutterstock.com/image-photo/whitelipped-tree-frog-litoria-infrafrenata-on-2263125941"],"tags":[{"id":93,"name":"string"}],"status":"available"}
+2024-06-21T16:39:52.450Z [INFO]: Response: 405 - {"code":405,"type":"unknown"}
+2024-06-21T16:42:21.766Z [INFO]: Request: Adding a pet with data: {"id":838,"category":{"id":66,"name":"Pigeon"},"name":"Chloe","photoUrls":["https://www.shutterstock.com/image-photo/rock-pigeon-street-looking-food-pigeons-1684487635"],"tags":[{"id":7,"name":"string"}],"status":"available"}
+2024-06-21T16:42:22.506Z [INFO]: Response: 200 - {"id":838,"category":{"id":66,"name":"Pigeon"},"name":"Chloe","photoUrls":["https://www.shutterstock.com/image-photo/rock-pigeon-street-looking-food-pigeons-1684487635"],"tags":[{"id":7,"name":"string"}],"status":"available"}
+2024-06-21T16:42:22.539Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T16:42:22.689Z [INFO]: Response: 200 - {"id":9223372036854666000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T16:42:22.697Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T16:42:22.866Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T16:42:23.372Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T16:42:23.988Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T16:42:24.421Z [INFO]: Request: Adding a pet to invalid endpoint with data: {"id":824,"category":{"id":79,"name":"Ball Python"},"name":"Chloe","photoUrls":["https://www.shutterstock.com/image-photo/royal-python-looks-close-reptile-terrarium-2004367055"],"tags":[{"id":6,"name":"string"}],"status":"available"}
+2024-06-21T16:42:25.102Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/invalid_endpoint"}
+2024-06-21T16:42:25.558Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/pet/10, data: {"id":874,"category":{"id":89,"name":"Gecko"},"name":"Max","photoUrls":["https://www.shutterstock.com/image-photo/mediterranean-house-gecko-hemidactylus-turcicus-2376839205"],"tags":[{"id":1,"name":"string"}],"status":"available"}
+2024-06-21T16:42:26.250Z [INFO]: Response: 405 - {"code":405,"type":"unknown"}
+2024-06-21T16:50:52.527Z [INFO]: Request: Adding a pet with data: {"id":7,"category":{"id":9,"name":"Gecko"},"name":"Charlie","photoUrls":["https://www.shutterstock.com/image-photo/mediterranean-house-gecko-hemidactylus-turcicus-2376839205"],"tags":[{"id":58,"name":"string"}],"status":"available"}
+2024-06-21T16:50:53.213Z [INFO]: Response: 200 - {"id":7,"category":{"id":9,"name":"Gecko"},"name":"Charlie","photoUrls":["https://www.shutterstock.com/image-photo/mediterranean-house-gecko-hemidactylus-turcicus-2376839205"],"tags":[{"id":58,"name":"string"}],"status":"available"}
+2024-06-21T16:50:53.247Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T16:50:53.396Z [INFO]: Response: 200 - {"id":9223372036854669000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T16:50:53.422Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T16:50:53.589Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T16:50:54.080Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T16:50:54.705Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T16:50:55.145Z [INFO]: Request: Adding a pet to invalid endpoint with data: {"id":767,"category":{"id":67,"name":"Corn Snake"},"name":"Charlie","photoUrls":["https://www.shutterstock.com/image-photo/full-lenght-shot-normal-colored-corn-2235169267"],"tags":[{"id":51,"name":"string"}],"status":"available"}
+2024-06-21T16:50:55.818Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/999"}
+2024-06-21T16:50:56.353Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/pet/notFound_endpoint, data: {"id":496,"category":{"id":54,"name":"Corn Snake"},"name":"Archie","photoUrls":["https://www.shutterstock.com/image-photo/full-lenght-shot-normal-colored-corn-2235169267"],"tags":[{"id":84,"name":"string"}],"status":"available"}
+2024-06-21T16:50:57.003Z [INFO]: Response: 405 - {"code":405,"type":"unknown"}
+2024-06-21T16:52:50.899Z [INFO]: Request: Adding a pet with data: {"id":467,"category":{"id":98,"name":"Turtle"},"name":"Sophie","photoUrls":["https://www.shutterstock.com/image-photo/land-turtle-natural-environment-cute-sulcata-2206224699"],"tags":[{"id":92,"name":"string"}],"status":"available"}
+2024-06-21T16:52:51.605Z [INFO]: Response: 200 - {"id":467,"category":{"id":98,"name":"Turtle"},"name":"Sophie","photoUrls":["https://www.shutterstock.com/image-photo/land-turtle-natural-environment-cute-sulcata-2206224699"],"tags":[{"id":92,"name":"string"}],"status":"available"}
+2024-06-21T16:52:51.644Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T16:52:51.794Z [INFO]: Response: 200 - {"id":9223372036854669000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T16:52:51.820Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T16:52:51.986Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T16:52:52.471Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T16:52:53.118Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T16:52:53.612Z [INFO]: Request: Adding a pet to invalid endpoint with data: {"id":832,"category":{"id":44,"name":"Gerbil"},"name":"Chloe","photoUrls":["https://www.shutterstock.com/image-photo/garbils-garbillinae-studio-2224080409"],"tags":[{"id":94,"name":"string"}],"status":"available"}
+2024-06-21T16:52:54.282Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/999"}
+2024-06-21T16:52:54.765Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/pet/notFound_endpoint, data: {"id":310,"category":{"id":94,"name":"Cat"},"name":"Sophie","photoUrls":["https://www.shutterstock.com/image-photo/cute-cat-most-people-link-first-2466559507"],"tags":[{"id":21,"name":"string"}],"status":"available"}
+2024-06-21T16:52:55.402Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-21T16:53:47.464Z [INFO]: Request: Adding a pet with data: {"id":514,"category":{"id":65,"name":"Ferret"},"name":"Oscar","photoUrls":["https://www.shutterstock.com/image-photo/endangered-animal-blackfooted-ferret-2353456945"],"tags":[{"id":40,"name":"string"}],"status":"available"}
+2024-06-21T16:53:48.181Z [INFO]: Response: 200 - {"id":514,"category":{"id":65,"name":"Ferret"},"name":"Oscar","photoUrls":["https://www.shutterstock.com/image-photo/endangered-animal-blackfooted-ferret-2353456945"],"tags":[{"id":40,"name":"string"}],"status":"available"}
+2024-06-21T16:53:48.218Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T16:53:48.379Z [INFO]: Response: 200 - {"id":9223372036854669000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T16:53:48.403Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T16:53:48.587Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T16:53:49.082Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T16:53:49.735Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T16:53:50.238Z [INFO]: Request: Adding a pet to invalid endpoint with data: {"id":419,"category":{"id":66,"name":"Gecko"},"name":"Lola","photoUrls":["https://www.shutterstock.com/image-photo/mediterranean-house-gecko-hemidactylus-turcicus-2376839205"],"tags":[{"id":45,"name":"string"}],"status":"available"}
+2024-06-21T16:53:50.942Z [INFO]: Response: 415 - {"code":415,"type":"unknown"}
+2024-06-21T16:53:51.474Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/pet/notFound_endpoint, data: {"id":237,"category":{"id":6,"name":"Frog"},"name":"Milo","photoUrls":["https://www.shutterstock.com/image-photo/whitelipped-tree-frog-litoria-infrafrenata-on-2263125941"],"tags":[{"id":56,"name":"string"}],"status":"available"}
+2024-06-21T16:53:52.165Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-21T18:04:39.098Z [INFO]: Request: Adding a pet with data: {"id":263,"category":{"id":47,"name":"Tortoise"},"name":"Daisy","photoUrls":["https://www.shutterstock.com/image-photo/galapagos-islands-tortoise-big-turtle-ecuador-2316709979"],"tags":[{"id":63,"name":"string"}],"status":"available"}
+2024-06-21T18:04:39.791Z [INFO]: Response: 200 - {"id":263,"category":{"id":47,"name":"Tortoise"},"name":"Daisy","photoUrls":["https://www.shutterstock.com/image-photo/galapagos-islands-tortoise-big-turtle-ecuador-2316709979"],"tags":[{"id":63,"name":"string"}],"status":"available"}
+2024-06-21T18:04:39.829Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T18:04:39.975Z [INFO]: Response: 200 - {"id":9223372036854680000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T18:04:39.985Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T18:04:40.150Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T18:04:40.764Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T18:04:41.385Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T18:04:41.830Z [INFO]: Request: Adding a pet to invalid endpoint with data: {"id":336,"category":{"id":37,"name":"Frog"},"name":"Lucy","photoUrls":["https://www.shutterstock.com/image-photo/whitelipped-tree-frog-litoria-infrafrenata-on-2263125941"],"tags":[{"id":17,"name":"string"}],"status":"available"}
+2024-06-21T18:04:42.520Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/pet/999/invalid_endpoint"}
+2024-06-21T18:04:42.972Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/notFound_endpoint, data: {"id":786,"category":{"id":34,"name":"Bearded Dragon"},"name":"Bailey","photoUrls":["https://www.shutterstock.com/image-photo/closeup-head-bearded-dragon-on-isolated-2356148695"],"tags":[{"id":25,"name":"string"}],"status":"available"}
+2024-06-21T18:04:43.655Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-21T18:05:41.655Z [INFO]: Request: Adding a pet with data: {"id":222,"category":{"id":81,"name":"Anole"},"name":"Sophie","photoUrls":["https://www.shutterstock.com/image-photo/anolis-cybotes-largeheaded-anole-tiburon-stout-2438192149"],"tags":[{"id":16,"name":"string"}],"status":"available"}
+2024-06-21T18:05:42.363Z [INFO]: Response: 200 - {"id":222,"category":{"id":81,"name":"Anole"},"name":"Sophie","photoUrls":["https://www.shutterstock.com/image-photo/anolis-cybotes-largeheaded-anole-tiburon-stout-2438192149"],"tags":[{"id":16,"name":"string"}],"status":"available"}
+2024-06-21T18:05:42.405Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T18:05:42.557Z [INFO]: Response: 200 - {"id":9223372036854680000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T18:05:42.577Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T18:05:42.747Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T18:05:43.237Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T18:05:43.900Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T18:05:44.367Z [INFO]: Request: Adding a pet to invalid endpoint with data: {"id":17,"category":{"id":91,"name":"Tortoise"},"name":"Molly","photoUrls":["https://www.shutterstock.com/image-photo/galapagos-islands-tortoise-big-turtle-ecuador-2316709979"],"tags":[{"id":27,"name":"string"}],"status":"available"}
+2024-06-21T18:05:45.005Z [INFO]: Response: 415 - {"code":415,"type":"unknown"}
+2024-06-21T18:05:47.053Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/notFound_endpoint, data: {"id":460,"category":{"id":47,"name":"Gecko"},"name":"Lucy","photoUrls":["https://www.shutterstock.com/image-photo/mediterranean-house-gecko-hemidactylus-turcicus-2376839205"],"tags":[{"id":48,"name":"string"}],"status":"available"}
+2024-06-21T18:05:47.772Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-21T18:10:17.756Z [INFO]: Request: Adding a pet with data: {"id":174,"category":{"id":73,"name":"Hamster"},"name":"Max","photoUrls":["https://www.shutterstock.com/image-photo/peachcolored-syrian-hamster-rised-paw-looked-2300410583"],"tags":[{"id":34,"name":"string"}],"status":"available"}
+2024-06-21T18:10:18.501Z [INFO]: Response: 200 - {"id":174,"category":{"id":73,"name":"Hamster"},"name":"Max","photoUrls":["https://www.shutterstock.com/image-photo/peachcolored-syrian-hamster-rised-paw-looked-2300410583"],"tags":[{"id":34,"name":"string"}],"status":"available"}
+2024-06-21T18:10:18.540Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T18:10:18.691Z [INFO]: Response: 200 - {"id":9223372036854680000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T18:10:18.707Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T18:10:18.879Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T18:10:19.378Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T18:10:20.051Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T18:10:20.487Z [INFO]: Request: Adding a pet with unsupported payload: {"id":58,"category":{"id":79,"name":"Hedgehog"},"name":"Bailey","photoUrls":["https://www.shutterstock.com/image-photo/hands-man-holding-hedgehog-2371436943"],"tags":[{"id":95,"name":"string"}],"status":"available"}
+2024-06-21T18:10:21.147Z [INFO]: Response: 415 - {"code":415,"type":"unknown"}
+2024-06-21T18:10:21.166Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/notFound_endpoint, data: {"id":544,"category":{"id":93,"name":"Ball Python"},"name":"Charlie","photoUrls":["https://www.shutterstock.com/image-photo/royal-python-looks-close-reptile-terrarium-2004367055"],"tags":[{"id":88,"name":"string"}],"status":"available"}
+2024-06-21T18:10:21.311Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-21T18:13:19.648Z [INFO]: Request: Adding a pet with data: {"id":990,"category":{"id":29,"name":"Dove"},"name":"Archie","photoUrls":["https://www.shutterstock.com/image-photo/side-view-wild-common-wood-pigeon-2311336065"],"tags":[{"id":27,"name":"string"}],"status":"available"}
+2024-06-21T18:13:20.313Z [INFO]: Response: 200 - {"id":990,"category":{"id":29,"name":"Dove"},"name":"Archie","photoUrls":["https://www.shutterstock.com/image-photo/side-view-wild-common-wood-pigeon-2311336065"],"tags":[{"id":27,"name":"string"}],"status":"available"}
+2024-06-21T18:13:20.348Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T18:13:20.497Z [INFO]: Response: 200 - {"id":9223372036854680000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T18:13:20.514Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T18:13:20.689Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T18:13:21.365Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T18:13:22.017Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T18:13:22.469Z [INFO]: Request: Adding a pet with unsupported payload: {"id":373,"category":{"id":61,"name":"Turtle"},"name":"Archie","photoUrls":["https://www.shutterstock.com/image-photo/land-turtle-natural-environment-cute-sulcata-2206224699"],"tags":[{"id":59,"name":"string"}],"status":"available"}
+2024-06-21T18:13:23.108Z [INFO]: Response: 415 - {"code":415,"type":"unknown"}
+2024-06-21T18:13:23.117Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/notFound_endpoint, data: {"id":563,"category":{"id":56,"name":"Chinchilla"},"name":"Luna","photoUrls":["https://www.shutterstock.com/image-photo/charming-chinchilla-cage-pedigree-gray-pet-2244602299"],"tags":[{"id":48,"name":"string"}],"status":"available"}
+2024-06-21T18:13:23.266Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-21T18:18:31.899Z [INFO]: Request: Adding a pet with data: {"id":943,"category":{"id":95,"name":"Cat"},"name":"Bailey","photoUrls":["https://www.shutterstock.com/image-photo/cute-cat-most-people-link-first-2466559507"],"tags":[{"id":25,"name":"string"}],"status":"available"}
+2024-06-21T18:18:32.595Z [INFO]: Response: 200 - {"id":943,"category":{"id":95,"name":"Cat"},"name":"Bailey","photoUrls":["https://www.shutterstock.com/image-photo/cute-cat-most-people-link-first-2466559507"],"tags":[{"id":25,"name":"string"}],"status":"available"}
+2024-06-21T18:18:32.621Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T18:18:32.767Z [INFO]: Response: 200 - {"id":9223372036854680000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T18:18:32.800Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T18:18:32.969Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T18:18:33.456Z [INFO]: Request: Adding a pet with invalid data types: [1,"12345","doggie"]
+2024-06-21T18:18:34.129Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T18:18:34.594Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very long category name"},"name":"A very very very very very very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very long tag name"}],"status":"available"}
+2024-06-21T18:18:35.219Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T18:18:35.661Z [INFO]: Request: Adding a pet with unsupported payload: {"id":769,"category":{"id":1,"name":"Turtle"},"name":"Jack","photoUrls":["https://www.shutterstock.com/image-photo/land-turtle-natural-environment-cute-sulcata-2206224699"],"tags":[{"id":20,"name":"string"}],"status":"available"}
+2024-06-21T18:18:36.340Z [INFO]: Response: 415 - {"code":415,"type":"unknown"}
+2024-06-21T18:18:36.354Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/notFound_endpoint, data: {"id":590,"category":{"id":21,"name":"Mouse"},"name":"Charlie","photoUrls":["https://www.shutterstock.com/image-photo/yellownecked-mouse-apodemus-flavicollis-called-field-2059965023"],"tags":[{"id":9,"name":"string"}],"status":"available"}
+2024-06-21T18:18:36.496Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-21T19:32:28.383Z [INFO]: Request: Adding a pet with data: {"id":99,"category":{"id":13,"name":"Hedgehog"},"name":"Charlie","photoUrls":["https://www.shutterstock.com/image-photo/hands-man-holding-hedgehog-2371436943"],"tags":[{"id":29,"name":"string"}],"status":"available"}
+2024-06-21T19:32:29.117Z [INFO]: Response: 200 - {"id":99,"category":{"id":13,"name":"Hedgehog"},"name":"Charlie","photoUrls":["https://www.shutterstock.com/image-photo/hands-man-holding-hedgehog-2371436943"],"tags":[{"id":29,"name":"string"}],"status":"available"}
+2024-06-21T19:32:29.163Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T19:32:29.311Z [INFO]: Response: 200 - {"id":9223372036854680000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T19:32:29.330Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T19:32:29.499Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T19:32:30.130Z [INFO]: Request: Adding a pet with invalid data types: [1,"12345","doggie"]
+2024-06-21T19:32:30.870Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T19:32:31.444Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very very_very_very_very long category name"},"name":"A very very very very very very very_very_very_very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_very_very_very_very long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very very very very very very very very very very very very very long tag name"}],"status":"available"}
+2024-06-21T19:32:32.109Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T19:32:32.684Z [INFO]: Request: Adding a pet with unsupported payload: {"id":300,"category":{"id":3,"name":"Dog"},"name":"Daisy","photoUrls":["https://www.shutterstock.com/image-photo/funny-dog-licking-lips-tongue-out-1761385949"],"tags":[{"id":82,"name":"string"}],"status":"available"}
+2024-06-21T19:32:33.372Z [INFO]: Response: 415 - {"code":415,"type":"unknown"}
+2024-06-21T19:32:33.399Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/notFound_endpoint, data: {"id":264,"category":{"id":89,"name":"Anole"},"name":"Daisy","photoUrls":["https://www.shutterstock.com/image-photo/anolis-cybotes-largeheaded-anole-tiburon-stout-2438192149"],"tags":[{"id":4,"name":"string"}],"status":"available"}
+2024-06-21T19:32:33.551Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-21T19:37:00.213Z [INFO]: Request: Retrieving pet with ID: 1
+2024-06-21T19:37:01.277Z [ERROR]: Unexpected error: AxiosError: Request failed with status code 404
+2024-06-21T19:37:01.847Z [INFO]: Request: Retrieving pet with non-numeric ID: abc
+2024-06-21T19:37:02.830Z [INFO]: Response: 404 - "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+2024-06-21T19:37:03.523Z [INFO]: Request: Retrieving pet with negative ID: -1
+2024-06-21T19:37:04.504Z [INFO]: Response: 404 - "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+2024-06-21T19:37:05.158Z [INFO]: Request: Retrieving pet with non-existing ID: 9999
+2024-06-21T19:37:06.231Z [INFO]: Response: 404 - "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+2024-06-21T20:19:49.962Z [INFO]: Request: Retrieving pet with ID: 1
+2024-06-21T20:19:50.652Z [INFO]: Response: 200 - {"id":1,"category":{"id":1,"name":"cat"},"name":"dog","photoUrls":[],"tags":[],"status":"sold"}
+2024-06-21T20:19:50.711Z [INFO]: Request: Retrieving pet with non-numeric ID: abc
+2024-06-21T20:19:50.905Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"java.lang.NumberFormatException: For input string: \"abc\""}
+2024-06-21T20:19:51.447Z [INFO]: Request: Retrieving pet with negative ID: -1
+2024-06-21T20:19:52.080Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-21T20:19:52.619Z [INFO]: Request: Retrieving pet with non-existing ID: 9999
+2024-06-21T20:19:53.308Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-21T20:43:49.546Z [INFO]: Request: Retrieving pet with ID: 1
+2024-06-21T20:43:50.351Z [ERROR]: Unexpected error: AxiosError: Request failed with status code 404
+2024-06-21T20:43:50.792Z [INFO]: Request: Retrieving pet with ID: 1
+2024-06-21T20:43:51.466Z [ERROR]: Unexpected error: AxiosError: Request failed with status code 404
+2024-06-21T20:43:51.982Z [INFO]: Request: Retrieving pet with ID: 1
+2024-06-21T20:43:52.656Z [INFO]: Response: 200 - {"id":1,"category":{"id":1,"name":"string"},"name":"..\\..\\..\\..\\..\\..\\..\\..\\..\\etc\\passwd","photoUrls":["string"],"tags":[{"id":1,"name":"string"}],"status":"test"}
+2024-06-21T20:43:52.691Z [INFO]: Request: Retrieving pet with non-numeric ID: abc
+2024-06-21T20:43:52.877Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"java.lang.NumberFormatException: For input string: \"abc\""}
+2024-06-21T20:43:53.334Z [INFO]: Request: Retrieving pet with non-numeric ID: abc
+2024-06-21T20:43:54.048Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"java.lang.NumberFormatException: For input string: \"abc\""}
+2024-06-21T20:43:54.587Z [INFO]: Request: Retrieving pet with non-numeric ID: abc
+2024-06-21T20:43:55.307Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"java.lang.NumberFormatException: For input string: \"abc\""}
+2024-06-21T20:43:55.800Z [INFO]: Request: Retrieving pet with negative ID: -1
+2024-06-21T20:43:56.509Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-21T20:43:57.056Z [INFO]: Request: Retrieving pet with negative ID: -1
+2024-06-21T20:43:57.761Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-21T20:43:58.223Z [INFO]: Request: Retrieving pet with negative ID: -1
+2024-06-21T20:43:58.912Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-21T20:43:59.419Z [INFO]: Request: Retrieving pet with non-existing ID: 9999
+2024-06-21T20:44:00.065Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-21T20:44:00.111Z [INFO]: Request: Adding a pet with data: {"id":423,"category":{"id":75,"name":"Dove"},"name":"Archie","photoUrls":["https://www.shutterstock.com/image-photo/side-view-wild-common-wood-pigeon-2311336065"],"tags":[{"id":55,"name":"string"}],"status":"available"}
+2024-06-21T20:44:00.253Z [INFO]: Response: 200 - {"id":423,"category":{"id":75,"name":"Dove"},"name":"Archie","photoUrls":["https://www.shutterstock.com/image-photo/side-view-wild-common-wood-pigeon-2311336065"],"tags":[{"id":55,"name":"string"}],"status":"available"}
+2024-06-21T20:44:00.350Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-21T20:44:00.491Z [INFO]: Response: 200 - {"id":9223372036854681000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-21T20:44:00.500Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T20:44:00.643Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T20:44:01.146Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T20:44:01.984Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T20:44:02.514Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-21T20:44:03.215Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T20:44:03.741Z [INFO]: Request: Adding a pet with invalid data types: [1,"12345","doggie"]
+2024-06-21T20:44:04.521Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T20:44:05.160Z [INFO]: Request: Adding a pet with invalid data types: [1,"12345","doggie"]
+2024-06-21T20:44:05.840Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T20:44:06.402Z [INFO]: Request: Adding a pet with invalid data types: [1,"12345","doggie"]
+2024-06-21T20:44:07.041Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-21T20:44:07.560Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very very_very_very_very long category name"},"name":"A very very very very very very very_very_very_very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_very_very_very_very long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very very very very very very very very very very very very very long tag name"}],"status":"available"}
+2024-06-21T20:44:08.241Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T20:44:08.705Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very very_very_very_very long category name"},"name":"A very very very very very very very_very_very_very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_very_very_very_very long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very very very very very very very very very very very very very long tag name"}],"status":"available"}
+2024-06-21T20:44:09.391Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T20:44:09.891Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very very_very_very_very long category name"},"name":"A very very very very very very very_very_very_very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_very_very_very_very long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very very very very very very very very very very very very very long tag name"}],"status":"available"}
+2024-06-21T20:44:10.584Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-21T20:44:11.055Z [INFO]: Request: Adding a pet with unsupported payload: {"id":285,"category":{"id":0,"name":"Hedgehog"},"name":"Bailey","photoUrls":["https://www.shutterstock.com/image-photo/hands-man-holding-hedgehog-2371436943"],"tags":[{"id":70,"name":"string"}],"status":"available"}
+2024-06-21T20:44:11.725Z [INFO]: Response: 415 - {"code":415,"type":"unknown"}
+2024-06-21T20:44:11.750Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/notFound_endpoint, data: {"id":252,"category":{"id":24,"name":"Ball Python"},"name":"Molly","photoUrls":["https://www.shutterstock.com/image-photo/royal-python-looks-close-reptile-terrarium-2004367055"],"tags":[{"id":71,"name":"string"}],"status":"available"}
+2024-06-21T20:44:11.898Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-29T06:35:56.879Z [INFO]: Request: Adding a pet with data: {"id":947,"category":{"id":75,"name":"Gerbil"},"name":"Chloe","photoUrls":["https://www.shutterstock.com/image-photo/garbils-garbillinae-studio-2224080409"],"tags":[{"id":93,"name":"string"}],"status":"available"}
+2024-06-29T06:35:57.671Z [INFO]: Response: 200 - {"id":947,"category":{"id":75,"name":"Gerbil"},"name":"Chloe","photoUrls":["https://www.shutterstock.com/image-photo/garbils-garbillinae-studio-2224080409"],"tags":[{"id":93,"name":"string"}],"status":"available"}
+2024-06-29T06:35:57.713Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-29T06:35:57.882Z [INFO]: Response: 200 - {"id":9223372016900015000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-29T06:35:57.890Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-29T06:35:58.096Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-29T06:35:58.763Z [INFO]: Request: Adding a pet with invalid data types: [1,"12345","doggie"]
+2024-06-29T06:35:59.426Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-29T06:36:00.035Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very very_very_very_very long category name"},"name":"A very very very very very very very_very_very_very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_very_very_very_very long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very very very very very very very very very very very very very long tag name"}],"status":"available"}
+2024-06-29T06:36:00.687Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-29T06:36:01.302Z [INFO]: Request: Adding a pet with unsupported payload: {"id":604,"category":{"id":68,"name":"Cat"},"name":"Jack","photoUrls":["https://www.shutterstock.com/image-photo/cute-cat-most-people-link-first-2466559507"],"tags":[{"id":10,"name":"string"}],"status":"available"}
+2024-06-29T06:36:01.967Z [INFO]: Response: 415 - {"code":415,"type":"unknown"}
+2024-06-29T06:36:01.981Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/notFound_endpoint, data: {"id":406,"category":{"id":13,"name":"Parrot"},"name":"Teddy","photoUrls":["https://www.shutterstock.com/image-photo/parrot-on-flower-beautiful-extreme-close-2328046837"],"tags":[{"id":11,"name":"string"}],"status":"available"}
+2024-06-29T06:36:02.133Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}
+2024-06-29T13:28:52.126Z [INFO]: Request: Retrieving pet with ID: 1
+2024-06-29T13:28:52.159Z [INFO]: Request: Adding a pet with data: {"id":880,"category":{"id":66,"name":"Rabbit"},"name":"Sadie","photoUrls":["https://www.shutterstock.com/image-photo/easter-bunny-hare-cottontail-rabbit-domestic-2437814323"],"tags":[{"id":28,"name":"string"}],"status":"available"}
+2024-06-29T13:28:52.882Z [INFO]: Response: 200 - {"id":880,"category":{"id":66,"name":"Rabbit"},"name":"Sadie","photoUrls":["https://www.shutterstock.com/image-photo/easter-bunny-hare-cottontail-rabbit-domestic-2437814323"],"tags":[{"id":28,"name":"string"}],"status":"available"}
+2024-06-29T13:28:52.882Z [INFO]: Response: 200 - {"id":1,"category":{"id":1,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":1,"name":"string"}],"status":"available"}
+2024-06-29T13:28:52.963Z [INFO]: Request: Retrieving pet with non-numeric ID: abc
+2024-06-29T13:28:53.097Z [INFO]: Request: Adding a pet with missing required fields: {"id":0,"name":"Max"}
+2024-06-29T13:28:53.225Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"java.lang.NumberFormatException: For input string: \"abc\""}
+2024-06-29T13:28:53.250Z [INFO]: Response: 200 - {"id":9223372036854661000,"name":"Max","photoUrls":[],"tags":[]}
+2024-06-29T13:28:53.308Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-29T13:28:53.532Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-29T13:28:55.706Z [INFO]: Request: Retrieving pet with non-numeric ID: abc
+2024-06-29T13:28:55.715Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-29T13:28:56.443Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"java.lang.NumberFormatException: For input string: \"abc\""}
+2024-06-29T13:28:56.470Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-29T13:28:57.465Z [INFO]: Request: Retrieving pet with non-numeric ID: abc
+2024-06-29T13:28:57.511Z [INFO]: Request: Adding a pet with invalid data types: {"id":"string","category":{"id":"string","name":12345},"name":12345,"photoUrls":[12345],"tags":[{"id":"string","name":12345}],"status":12345}
+2024-06-29T13:28:58.284Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-29T13:28:58.319Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"java.lang.NumberFormatException: For input string: \"abc\""}
+2024-06-29T13:28:59.932Z [INFO]: Request: Adding a pet with invalid data types: [1,"12345","doggie"]
+2024-06-29T13:28:59.986Z [INFO]: Request: Retrieving pet with negative ID: -1
+2024-06-29T13:29:00.711Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-29T13:29:00.864Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-29T13:29:03.882Z [INFO]: Request: Retrieving pet with negative ID: -1
+2024-06-29T13:29:04.064Z [INFO]: Request: Adding a pet with invalid data types: [1,"12345","doggie"]
+2024-06-29T13:29:04.876Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-29T13:29:05.000Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-29T13:29:06.945Z [INFO]: Request: Retrieving pet with negative ID: -1
+2024-06-29T13:29:07.009Z [INFO]: Request: Adding a pet with invalid data types: [1,"12345","doggie"]
+2024-06-29T13:29:07.668Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-29T13:29:07.693Z [INFO]: Response: 500 - {"code":500,"type":"unknown","message":"something bad happened"}
+2024-06-29T13:29:08.902Z [INFO]: Request: Retrieving pet with non-existing ID: 9999
+2024-06-29T13:29:09.037Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very very_very_very_very long category name"},"name":"A very very very very very very very_very_very_very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_very_very_very_very long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very very very very very very very very very very very very very long tag name"}],"status":"available"}
+2024-06-29T13:29:09.674Z [INFO]: Response: 404 - {"code":1,"type":"error","message":"Pet not found"}
+2024-06-29T13:29:09.810Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-29T13:29:11.451Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very very_very_very_very long category name"},"name":"A very very very very very very very_very_very_very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_very_very_very_very long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very very very very very very very very very very very very very long tag name"}],"status":"available"}
+2024-06-29T13:29:12.311Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-29T13:29:12.954Z [INFO]: Request: Adding a pet with exceeding field lengths: {"id":0,"category":{"id":1,"name":"A very very very very very very very_very_very_very long category name"},"name":"A very very very very very very very_very_very_very long pet name","photoUrls":["http://example.com/photos/a_very_very_very_very_very_very_very_very long_photo_url.jpg"],"tags":[{"id":1,"name":"A very very very very very very very very very very very very very very very very very very long tag name"}],"status":"available"}
+2024-06-29T13:29:13.569Z [ERROR]: Unexpected error: Error: Expected request to fail with 400
+2024-06-29T13:29:14.882Z [INFO]: Request: Adding a pet with unsupported payload: {"id":821,"category":{"id":8,"name":"Mouse"},"name":"Molly","photoUrls":["https://www.shutterstock.com/image-photo/yellownecked-mouse-apodemus-flavicollis-called-field-2059965023"],"tags":[{"id":4,"name":"string"}],"status":"available"}
+2024-06-29T13:29:15.530Z [INFO]: Response: 415 - {"code":415,"type":"unknown"}
+2024-06-29T13:29:15.542Z [INFO]: Request: Updating a pet with invalid endpoint: https://petstore.swagger.io/v2/notFound_endpoint, data: {"id":253,"category":{"id":10,"name":"Gecko"},"name":"Buddy","photoUrls":["https://www.shutterstock.com/image-photo/mediterranean-house-gecko-hemidactylus-turcicus-2376839205"],"tags":[{"id":6,"name":"string"}],"status":"available"}
+2024-06-29T13:29:15.690Z [INFO]: Response: 404 - {"code":404,"type":"unknown","message":"null for uri: http://petstore.swagger.io/v2/notFound_endpoint"}

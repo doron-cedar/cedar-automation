@@ -1,0 +1,5 @@
+{
+    "base_Url": "https://petstore.swagger.io/v2",
+    "swagger_host": "http://petstore.swagger.io:",
+    "calendarApp_url": "https://stephenchou1017.github.io/scheduler"
+}
