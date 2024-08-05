@@ -1,5 +1,11 @@
 {
-    "base_Url": "https://petstore.swagger.io/v2",
-    "swagger_host": "http://petstore.swagger.io:",
-    "calendarApp_url": "https://stephenchou1017.github.io/scheduler"
+    "AdminApp_url": "https://crm.staging.mycedar.xyz/auth/login",
+    "ClientApp_url": "https://app.staging.mycedar.xyz/auth/login",
+    "username": "doron.omer@cedar.money",
+    "password": "Aa123456",
+    "clientUsername": "doron.omer@cedar.money",
+    "clientPassword": "doronAV9565$",
+    "sendAmount": 2000,
+    "currencyToSend": "USD",
+    "youArePaying": "NGN"
 }

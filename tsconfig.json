@@ -8,6 +8,6 @@
     "forceConsistentCasingInFileNames": true,
     "outDir": "./dist"
   },
-  "include": ["Automation/**/*"],
+  "include": ["CedarAutomation/**/*"],
   "exclude": ["node_modules"]
 }

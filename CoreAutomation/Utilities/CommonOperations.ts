@@ -20,8 +20,4 @@ export class CommonOperations {
         }
       }
       
-  static async getPets() {
-    const response = await axios.get(`${Base.apiBaseUrl}/v2/pet/findByStatus?status=available`);
-    return response.data;
-  }
 }
